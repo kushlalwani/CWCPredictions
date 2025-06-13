@@ -1,10 +1,10 @@
 country_abbrev,team_name,strength
 EGY,Al Ahly,80.6
-P1,FC Porto,84.2
+P1,Porto,84.2
 USA,Inter Miami,80.9
 BRA,Palmeiras,83.4
 SP1,Ath Madrid,90.6
-F1,PSG,95.2
+F1,Paris SG,95.2
 USA,Seattle Sounders,81.7
 AUS,Auckland FC,67.6
 D1,Bayern Munich,93.6
@@ -12,7 +12,7 @@ P1,Benfica,89.0
 E0,Chelsea,91.5
 BRA,Flamengo RJ,82.5
 TUN,Esperance,75.5
-USA,LAFC,80.4
+USA,Los Angeles FC,80.4
 ARG,River Plate,81.0
 MEX,Monterrey,81.6
 I1,Inter,94.2
@@ -26,28 +26,28 @@ I1,Juventus,88.3
 E0,Man City,95.0
 MOR,Wydad Casablanca,73.4
 KSA,Al Hilal,82.6
-MEX,Pachuca,77,3
+MEX,Pachuca,77.3
 AUT,Salzburg,81.3
 SP1,Real Madrid,93.3
 I1,AC Milan,88.7
-NED,Ajax,84.3
+NED,AFC Ajax,84.3
 I1,Atalanta,89.9
 SUI,Young Boys,79.8
 TUR,Besiktas,80.1
 D1,M'Gladbach,82.2
-BEL,Club Brugge,87.3
+BEL,Club Brugge KV,87.3
 UKR,Dynamo Kyiv,79.4
 SP1,Barcelona,94.8
 I1,Lazio,87.9
 F1,Lille,88.0
 E0,Liverpool,97.3
 SWE,Malmo FF,79.4
-E0,Manchester United,88.6
-D1,Leipzig,85.8
+E0,Man United,88.6
+D1,RB Leipzig,85.8
 SP1,Sevilla,82.8
 UKR,Shakhtar Donetsk,79.8
-P1,Sporting CP,88.8
-D1,VFL Wolfsburg,82.3
+P1,Sp Lisbon,88.8
+D1,Wolfsburg,82.3
 SP1,Villarreal,87.1
 RUS,Zenit St. Petersburg,81.7
 P1,AVS,75.7
@@ -144,3 +144,197 @@ BRA,Fortaleza,82.2
 D1,Freiburg,84.0
 I1,Frosinone,76.1
 E0,Fulham,87.9
+JAP,Gamba Osaka,77.4
+I1,Genoa,82.2
+SP1,Getafe,82.1
+P1,Gil Vicente,77.9
+ARG,Gimnasia L.P.,77.5
+SP1,Girona,82.3
+ARG,Godoy Cruz,79.3
+BRA,Goias,74.4
+SP1,Granada,77.7
+AUT,Grazer AK,72.7
+BRA,Gremio,81.1
+D1,Greuther Furth,74.4
+MEX,Guadalajara Chivas,79.8
+P1,Guimaraes,81.1
+AUT,Hartberg,76.1
+D1,Heidenheim,81.9
+D1,Hertha,77.5
+D1,Hoffenheim,82.6
+JAP,Hokkaido Consadole Sapporo,75.2
+D1,Holstein Kiel,79.5
+USA,Houston Dynamo,81.7
+SP1,Huesca,76.4
+ARG,Huracan,80.3
+ARG,Ind. Rivadavia,76.9
+ARG,Independiente,80.8
+ARG,Instituto,78.8
+BRA,Internacional,81.2
+E0,Ipswich,82.0
+JAP,Iwata,73.3
+MEX,Juarez,74.3
+BRA,Juventude,79.8
+JAP,Kashima Antlers,79.2
+JAP,Kashiwa Reysol,74.5
+JAP,Kawasaki Frontale,78.7
+JAP,Kyoto,76.5
+AUT,LASK,78.5
+ARG,Lanus,78.9
+SP1,Las Palmas,81.6
+F1,Le Havre,80.0
+I1,Lecce,82.3
+E0,Leeds,86.2
+SP1,Leganes,81.9
+E0,Leicester,82.4
+F1,Lens,82.2
+SP1,Levante,78.3
+D1,Leverkusen,90.6
+F1,Loreint,75.7
+E0,Luton,78.1
+USA,Los Angeles Galaxy,82.3
+F1,Lyon,87.2
+JAP,Machida,78.4
+D1,Mainz,84.1
+SP1,Mallorca,82.8
+P1,Maritimo,73.6
+F1,Marseille,85.4
+MEX,Mazatlan,75.9
+F1,Metz,74.4
+I1,Milan,88.7
+USA,Minnesota United,79.6
+F1,Monaco,87.0
+F1,Montpellier,81.5
+I1,Monza,77.5
+P1,Moreirense,80.6
+P1,Nacional,76.1
+JAP,Nagoya Grampus,76.5
+F1,Nantes,80.3
+I1,Napoli,90.3
+USA,Nashville SC,77.2
+MEX,Necaxa,75.0
+USA,New England Revolution,76.2
+USA,New York City,79.8
+USA,New York Red Bulls,80.3
+E0,Newcastle,91.9
+ARG,Newells Old Boys,76.0
+F1,Nice,84.6
+E0,Norwich,79.4
+E0,Nott'm Forest,88.4
+E0,Nottm Forest,88.4
+USA,Orlando City,82.6
+SP1,Osasuna,83.8
+P1,Pacos Ferreira,70.2
+I1,Parma,81.0
+USA,Philadelphia Union,80.5
+ARG,Platense,79.5
+P1,Portimonense,69.6
+USA,Portland Timbers,79.4
+MEX,Puebla,71.7
+MEX,Queretaro,74.5
+ARG,Racing Club,81.2
+USA,Real Salt Lake,80.5
+F1,Reims,80.1
+F1,Rennes,82.4
+P1,Rio Ave,78.3
+I1,Roma,88.4
+ARG,Rosario Central,78.3
+AUT,SK Rapid,81.3
+JAP,Sagan Tosu,72.1
+I1,Salernitana,76.0
+I1,Sampdoria,78.1
+USA,San Jose Earthquakes,73.7
+ARG,San Lorenzo,79.1
+JAP,Sanfrecce Hiroshima,80.8
+P1,Santa Clara,79.0
+BRA,Santos,75.7
+MEX,Santos Laguna,73.0
+BRA,Sao Paulo,80.0
+ARG,Sarmiento Junin,75.5
+I1,Sassuolo,81.0
+D1,Schalke 04,75.7
+E0,Sheffield United,82.7
+JAP,Shonan Bellmare,76.5
+SP1,Sociedad,84.6
+E0,Southampton,80.7
+P1,Sp Braga,83.7
+I1,Spezia,80.6
+BRA,Sport Recife,76.2
+USA,Sporting Kansas City,76.7
+F1,St Etienne,80.3
+D1,St Pauli,81.7
+USA,St. Louis City,78.0
+F1,Strasbourg,82.2
+AUT,Sturm Graz,80.2
+D1,Stuttgart,84.6
+ARG,Talleres Cordoba,81.9
+MEX,Tigres,81.5
+AUT,Tirol,71.4
+MEX,Toluca,82.2
+P1,Tondela,72.6
+I1,Torino,84.4
+USA,Toronto FC,74.1
+E0,Tottenham,87.8
+F1,Toulouse,81.4
+F1,Troyes,70.2
+MEX,U.N.A.M.- Pumas,79.8
+I1,Udinese,81.5
+D1,Union Berlin,81.8
+SP1,Valencia,82.6
+SP1,Valladolid,80.4
+SP1,Vallecano,82.1
+USA,Vancouver Whitecaps,79.6
+BRA,Vasco,80.0
+ARG,Velez Sarsfield,82.2
+I1,Venezia,81.2
+JAP,Verdy,77.2
+I1,Verona,82.5
+JAP,Vissel Kobe,79.0
+BRA,Vitoria,80.5
+P1,Vizela,71.5
+E0,Watford,79.0
+D1,Werder Bremen,82.9
+E0,West Brom,80.8
+E0,West Ham,85.5
+AUT,Wolfsberger AC,76.1
+E0,Wolves,86.8
+JAP,Yokohama F. Marinos,78.0
+PER,Alianza Lima,74.1
+BOL,Always Ready,72.1
+COL,America de Cali,77.4
+COL,Atletico Nacional,76.0
+ECU,Aucas,71.9
+ECU,Barcelona SC,74.4
+BOL,Bolivar,77.7
+COL,CS Deportivo Pereira,73.7
+VEN,Caracas,66.1
+PAR,Cerro Porteno,76.5
+CHI,Cobresal,70.6
+CHI,Colo Colo,78.2
+COL,Deportivo Cali,70.6
+VEN,Deportivo La Guaira FC,66.4
+VEN,Deportivo Tachira,69.7
+ECU,Emelec,72.2
+PER,FBC Melgar,73.1
+CHI,Huachipato,70.9
+COL,Independiente Medellin,76.1
+BOL,Independiente Petrolero,66.2
+COL,Junior FC,75.4
+ECU,LDU de Quito,76.1
+PAR,Libertad,75.8
+URU,Liverpool Montevideo,70.1
+VEN,Metropolitanos FC,66.6
+COL,Millonarios,76.1
+VEN,Monagas,66.7
+URU,Nacional Uruguay,79.1
+PAR,Olimpia,77.5
+CHI,Palestino,73.0
+URU,Penarol,76.8
+COL,Santa Fe,74.9
+PER,Sporting Cristal,73.8
+BOL,The Strongest,75.0
+COL,Tolima,76.1
+CHI,Universidad Catolica,74.8
+PER,Universitario de Deportes,75.3
+CHI,Union La Calera,69.8
+CHI,Nublense,73.1

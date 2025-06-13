@@ -2,7 +2,7 @@
 Attempting to predict the matches of the 2025 FIFA Club World Cup
 
 ## Sources
-Used this source to obtain team rankings and league rankings: https://globalfootballrankings.com
+Used this source to obtain team rankings and league rankings, tables are manually typed: https://globalfootballrankings.com
 
 Source for the league training data: https://www.kaggle.com/datasets/adamgbor/club-football-match-data-2000-2025?resource=download
 

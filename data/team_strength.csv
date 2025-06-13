@@ -3,16 +3,14 @@ EGY,Al Ahly,80.6
 P1,FC Porto,84.2
 USA,Inter Miami,80.9
 BRA,Palmeiras,83.4
-SP1,Atletico Madrid,90.6
-BRA,Botafogo,80.0
+SP1,Ath Madrid,90.6
 F1,PSG,95.2
 USA,Seattle Sounders,81.7
 AUS,Auckland FC,67.6
-D1,Bayern,93.6
-ARG,Boca Juniors,82.0
+D1,Bayern Munich,93.6
 P1,Benfica,89.0
 E0,Chelsea,91.5
-BRA,Flamengo,82.5
+BRA,Flamengo RJ,82.5
 TUN,Esperance,75.5
 USA,LAFC,80.4
 ARG,River Plate,81.0
@@ -31,3 +29,118 @@ KSA,Al Hilal,82.6
 MEX,Pachuca,77,3
 AUT,Salzburg,81.3
 SP1,Real Madrid,93.3
+I1,AC Milan,88.7
+NED,Ajax,84.3
+I1,Atalanta,89.9
+SUI,Young Boys,79.8
+TUR,Besiktas,80.1
+D1,M'Gladbach,82.2
+BEL,Club Brugge,87.3
+UKR,Dynamo Kyiv,79.4
+SP1,Barcelona,94.8
+I1,Lazio,87.9
+F1,Lille,88.0
+E0,Liverpool,97.3
+SWE,Malmo FF,79.4
+E0,Manchester United,88.6
+D1,Leipzig,85.8
+SP1,Sevilla,82.8
+UKR,Shakhtar Donetsk,79.8
+P1,Sporting CP,88.8
+D1,VFL Wolfsburg,82.3
+SP1,Villarreal,87.1
+RUS,Zenit St. Petersburg,81.7
+P1,AVS,75.7
+F1,Ajaccio,71.3
+SP1,Alaves,81.8
+JAP,Albirex Niigata,75.7
+SP1,Almeria,79.1
+AUT,Altach,70.9
+BRA,America MG,74.7
+F1,Angers,80.5
+ARG,Argentinos Jrs,78.0
+P1,Arouca,78.1
+E0,Arsenal,95.9
+E0,Aston Villa,91.4
+SP1,Ath Bilbao,87.5
+BRA,Athletico-PR,80.9
+MEX,Atl. San Luis,78.5
+ARG,Atl. Tucuman,78.0
+USA,Atlanta United,79.5
+MEX,Atlas,76.3
+BRA,Atletico GO,77.3
+BRA,Atletico-MG,80.7
+D1,Augsburg,82.5
+USA,Austin FC,78.2
+AUT,Austria Vienna,78.0
+F1,Auxerre,81.5
+BRA,Avai,71.6
+JAP,Avispa Fukuoka,76.1
+AUT,BW Linz,73.8
+BRA,Bahia,80.7
+ARG,Banfield,77.4
+ARG,Barracas Central,76.2
+ARG,Belgrano,78.2
+SP1,Betis,86.5
+P1,Boavista,75.3
+ARG,Boca Juniors,82.0
+D1,Bochum,79.5
+I1,Bologna,88.5
+BRA,Botafogo RJ,80.0
+E0,Bournemouth,88.7
+BRA,Bragantino,80.3
+E0,Brentford,88.3
+F1,Brest,82.8
+E0,Brighton,88.5
+E0,Burnley,82.5
+USA,CF Montreal,77.1
+SP1,Cadiz,76.9
+I1,Cagliari,81.9
+P1,Casa Pia,78.1
+BRA,Ceara,74.2
+SP1,Celta,84.3
+ARG,Central Cordoba,77.2
+JAP,Cerezo Osaka,77.3
+BRA,Chapecoense-SC,70.4
+USA,Charlotte,80.5
+P1,Chaves,70.3
+USA,Chicago Fire,74.5
+F1,Clermont,73.0
+MEX,Club America,82.8
+MEX,Club Leon,77.2
+MEX,Club Tijuana,76.9
+USA,Colorado Rapids,77.2
+USA,Columbus Crew,82.7
+I1,Como,81.8
+BRA,Corinthians,79.1
+BRA,Coritiba,74.5
+I1,Cremonese,79.6
+BRA,Criciuma,79.3
+MEX,Cruz Azul,83.0
+BRA,Cruzeiro,80.3
+E0,Crystal Palace,89.7
+BRA,Cuiaba,79.2
+USA,DC United,76.9
+D1,Darmstadt,78.9
+ARG,Defensa y Justicia,78.4
+ARG,Dep. Riestra,78.2
+SP1,Eibar,76.8
+D1,Ein Frankfurt,86.2
+SP1,Elche,77.2
+I1,Empoli,79.1
+SP1,Espanyol,80.9
+P1,Estoril,76.4
+P1,Estrela,75.6
+ARG,Estudiantes L.P.,80.0
+E0,Everton,86.3
+USA,FC Cincinnati,80.6
+USA,FC Dallas,77.9
+D1,FC Koln,79.3
+JAP,FC Tokyo,76.7
+P1,Famalicao,80.4
+P1,Farense,76.1
+I1,Fiorentina,86.4
+BRA,Fortaleza,82.2
+D1,Freiburg,84.0
+I1,Frosinone,76.1
+E0,Fulham,87.9

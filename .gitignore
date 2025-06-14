@@ -1,0 +1,26 @@
+# Ignore CatBoost info folder
+catboost_info/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore data files (if you want)
+data/
+*.csv
+*.tsv
+
+# Ignore model files (if you want to keep models out of repo)
+*.cbm
+*.bin
+
+# Ignore logs and temp files
+*.log
+*.tmp

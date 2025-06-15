@@ -10,4 +10,7 @@ Source for UEFA Champions League training Data: https://www.kaggle.com/datasets/
 
 Source for CONMEBOL Libertadores training data: https://www.kaggle.com/datasets/ernestonlm/conmebol-libertadores-results-from-2011-to-2022
 
+Manually entered data from previous Club World Cup games dating back to the 2022 tournament. If needed, I also added the previous three games for teams in the tournament. Data from SofaScore.
+
+
 

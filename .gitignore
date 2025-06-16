@@ -12,15 +12,6 @@ __pycache__/
 .env
 *.env
 
-# Ignore data files (if you want)
-data/
-*.csv
-*.tsv
-
-# Ignore model files (if you want to keep models out of repo)
-*.cbm
-*.bin
-
 # Ignore logs and temp files
 *.log
 *.tmp

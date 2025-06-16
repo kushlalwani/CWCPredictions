@@ -1,0 +1,44 @@
+DATE,HOME_TEAM,AWAY_TEAM,HOME_LEAGUE_ID,AWAY_LEAGUE_ID,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,RESULT,HOME_TARGET,AWAY_TARGET,HOME_FOULS,AWAY_FOULS,HOME_CORNERS,AWAY_CORNERS,HOME_YELLOW,AWAY_YELLOW,HOME_RED,AWAY_RED
+2/5/2022,Al Ahly,Monterrey,EGY,MEX,1,0,H,4,2,15,11,2,8,4,0,0,0
+1/27/2022,Smouha,Al Ahly,EGY,EGY,3,0,H,,,,,,,2,1,,
+1/30/2022,Al Ahly,National Bank,EGY,EGY,1,1,D,,,,,,,1,3,,
+1/21/2022,Al Ahly,Al Mokawloon,EGY,EGY,1,1,D,,,,,,,1,1,,
+2/6/2022,Al Hilal,Al-Jazira,KSA,UAE,6,1,H,10,6,12,12,5,3,0,2,0,0
+1/15/2022,Al Hilal,Al Taawoun,KSA,KSA,3,2,H,6,4,12,10,6,2,1,2,0,0
+12/25/2021,Al Hilal,Al Fateh,KSA,KSA,2,3,A,6,6,6,13,8,6,0,4,0,0
+12/20/2021,Al Hilal,Al Raed,KSA,KSA,2,0,H,4,1,11,7,12,2,1,4,0,1
+1/15/2022,Al-Jazira,Al-Wahda,UAE,UAE,1,2,A,,,,,,,4,4,,
+1/11/2022,Al-Jazira,Al-Wasl,UAE,UAE,3,2,H,,,,,,,1,1,,
+12/31/2021,Al-Wahda,Al-Jazira,UAE,UAE,1,1,D,,,,,,,5,3,,
+2/8/2022,Palmeiras,Al Ahly,BRA,UAE,2,0,H,4,5,15,9,3,4,0,1,0,1
+2/9/2022,Monterrey,Al-Jazira,MEX,UAE,3,1,H,5,2,21,12,3,2,5,0,0,0
+2/9/2022,Al Hilal,Chelsea,KSA,E0,0,1,A,3,5,7,14,3,9,2,1,0,0
+2/12/2022,Al Hilal,Al Ahly,KSA,UAE,0,4,A,0,10,6,12,4,5,1,3,2,0
+2/12/2022,Chelsea,Palmeiras,E0,BRA,2,1,H,3,3,22,19,7,3,1,3,0,1
+2/4/2023,Wydad Casablanca,Al Hilal,MOR,KSA,1,1,D,3,5,17,15,13,9,6,6,1,1
+1/29/2023,Wydad Casablanca,FUS Rabat,MOR,MOR,0,0,D,,,,,2,2,4,1,,
+1/25/2023,Wydad Casablanca,MAS,MOR,MOR,1,0,H,,,,,4,1,3,2,,
+1/19/2023,Olympic Safi,Wydad Casablanca,MOR,MOR,0,0,D,,,,,5,4,2,3,,
+1/26/2023,Al Fayha,Al Hilal,KSA,KSA,1,0,H,4,2,9,15,2,9,3,2,0,0
+1/10/2023,Al Raed,Al Hilal,KSA,KSA,1,1,D,3,6,6,13,3,12,3,1,0,0
+1/5/2023,Al Ittihad,Al Hilal,KSA,KSA,0,1,A,4,4,9,8,11,3,1,4,0,0
+2/4/2023,Seattle Sounders,Al Ahly,USA,UAE,0,1,A,2,1,6,15,5,2,0,1,0,0
+1/24/2023,Al Ahly,National Bank,EGY,EGY,1,0,H,8,0,9,18,9,3,0,1,0,0
+1/21/2023,Zamalek,Al Ahly,EGY,EGY,0,3,A,3,8,3,16,7,3,0,2,0,0
+1/17/2023,Al Ahly,Smouha,EGY,EGY,3,1,H,,,,,,,0,1,,
+2/7/2023,Flamengo,Al Hilal,BRA,KSA,2,3,A,2,5,15,15,4,4,7,3,1,0
+2/8/2023,Al Ahly,Real Madrid,EGY,SP1,1,4,A,5,11,9,6,8,4,1,1,0,0
+2/11/2023,Al Ahly,Flamengo,EGY,BRA,2,4,A,4,6,21,16,5,1,5,2,1,0
+2/11/2023,Real Madrid,Al Hilal,SP1,KSA,5,3,H,11,3,10,8,6,0,0,0,0,0
+12/15/2023,Club Leon,Urawa Reds,MEX,JAP,0,1,A,1,5,15,10,3,7,3,1,1,0
+12/15/2023,Al Ahly,Al Ittihad,EGY,KSA,3,1,H,5,6,14,8,1,6,3,1,1,0
+11/28/2023,Al Ahly,Smouha,EGY,EGY,0,0,D,2,2,12,16,15,1,2,5,0,0
+11/11/2023,El Gouna,Al Ahly,EGY,EGY,1,1,D,2,3,20,9,1,12,4,1,1,0
+11/8/2023,Ceramica Cleopatra,Al Ahly,EGY,EGY,1,2,A,6,8,9,17,5,9,4,5,1,0
+12/7/2023,Damac,Al Ittihad,KSA,KSA,3,1,H,4,4,12,18,8,6,1,3,0,0
+11/30/2023,Al Ittihad,Al Khaleej,KSA,KSA,4,2,H,4,6,17,11,2,3,2,1,0,0
+11/24/2023,Al Ettifaq,Al Ittihad,KSA,KSA,1,1,D,3,3,7,12,4,3,0,1,0,0
+12/18/2023,Fluminense,Al Ahly,BRA,EGY,2,0,H,5,6,9,15,7,6,1,1,0,0
+12/19/2023,Urawa Reds,Man City,JAP,E0,0,3,A,0,9,13,3,3,7,0,2,0,0
+12/22/2023,Urawa Reds,Al Ahly,JAP,EGY,2,4,A,4,7,10,5,5,3,2,2,0,0
+12/22/2023,Man City,Fluminense,E0,BRA,4,0,H,8,2,11,13,4,2,0,3,0,0

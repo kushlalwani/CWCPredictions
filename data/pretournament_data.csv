@@ -1,0 +1,93 @@
+DATE,HOME_TEAM,AWAY_TEAM,HOME_LEAGUE_ID,AWAY_LEAGUE_ID,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,RESULT,HOME_TARGET,AWAY_TARGET,HOME_FOULS,AWAY_FOULS,HOME_CORNERS,AWAY_CORNERS,HOME_YELLOW,AWAY_YELLOW,HOME_RED,AWAY_RED
+6/8/2025,Al Ahly,Pachuca,EGY,MEX,1,1,D,,,,,,,1,0,0,0
+5/28/2025,Al Ahly,Pharco,EGY,EGY,6,0,H,11,4,13,10,9,6,0,0,0,1
+5/17/2025,Al Ahly,National Bank,EGY,EGY,2,1,H,4,1,9,9,5,2,1,3,0,0
+6/8/2025,Porto,Riga,P1,LAT,0,2,A,,,,,,,,,0,0
+5/31/2025,Wydad Casablanca,Porto,MOR,P1,0,1,A,2,1,11,14,5,0,1,1,0,0
+5/17/2025,Porto,Nacional,P1,P1,3,0,H,4,5,11,15,2,8,1,7,0,1
+6/1/2025,Cruzeiro,Palmeiras,BRA,BRA,2,1,H,3,5,17,13,5,13,3,3,0,0
+5/28/2025,Palmeiras,Sporting Cristal,BRA,PER,6,0,H,12,1,6,14,5,5,2,3,0,0
+5/25/2025,Palmeiras,Flamengo,BRA,BRA,0,2,A,3,3,13,18,3,3,4,2,0,0
+5/31/2025,Inter Miami,Columbus Crew,USA,USA,5,1,H,7,1,8,12,4,6,1,1,0,0
+5/28/2025,Inter Miami,CF Montreal,USA,USA,4,2,H,4,6,20,10,0,2,3,1,0,0
+5/24/2025,Philadelphia Union,Inter Miami,USA,USA,3,3,D,8,5,11,10,8,6,4,3,0,0
+5/31/2025,Paris SG,Inter,F1,I1,5,0,H,8,2,2,3,4,6,2,3,0,0
+5/24/2025,Paris SG,Reims,F1,F1,3,0,H,8,1,12,2,10,1,0,0,0,0
+5/17/2025,Paris SG,Auxerre,F1,F1,3,1,H,9,2,10,9,5,2,1,2,0,0
+6/4/2025,Botafogo,Ceara,BRA,BRA,3,2,H,10,3,12,11,6,0,1,2,0,0
+6/1/2025,Santos,Botafogo,BRA,BRA,0,1,A,4,3,13,16,5,4,4,2,1,0
+5/27/2025,Botafogo,Universidad de Chile,BRA,CHI,1,0,H,3,1,6,17,4,5,2,4,1,0
+6/8/2025,Vancouver Whitecaps,Seattle Sounders,USA,USA,3,0,H,5,0,10,11,3,3,0,0,0,2
+6/1/2025,Seattle Sounders,Minnesota United,USA,USA,2,3,A,2,6,13,15,9,0,1,4,0,0
+5/24/2025,Seattle Sounders,FC Dallas,USA,USA,1,0,H,4,5,8,14,4,5,1,5,0,0
+5/25/2025,Girona,Ath Madrid,SP1,SP1,0,4,A,1,11,13,11,1,8,0,0,0,0
+5/18/2025,Ath Madrid,Betis,SP1,SP1,4,1,H,11,7,12,9,7,4,1,1,0,0
+5/15/2025,Osasuna,Ath Madrid,SP1,SP1,2,0,H,3,5,12,11,3,5,1,1,0,0
+5/17/2025,Hoffenheim,Bayern Munich,D1,D1,0,4,A,2,5,9,7,1,4,0,0,0,0
+5/10/2025,Bayern Munich,M'Gladbach,D1,D1,2,0,H,9,6,3,8,4,9,1,1,0,0
+5/3/2025,RB Leipzig,Bayern Munich,D1,D1,3,3,D,6,6,9,6,2,7,3,1,0,0
+5/25/2025,Benfica,Sp Lisbon,P1,P1,1,3,A,8,10,25,14,7,8,4,4,0,0
+5/17/2025,Sp Braga,Benfica,P1,P1,1,1,D,7,2,15,8,6,6,4,2,1,0
+5/10/2025,Benfica,Sp Lisbon,P1,P1,1,1,D,1,4,24,14,6,2,5,2,0,1
+5/19/2025,Boca Juniors,Independiente,ARG,ARG,0,1,A,1,5,14,11,7,6,3,4,0,0
+5/10/2025,Boca Juniors,Lanus,ARG,ARG,0,0,D,3,4,11,7,4,1,2,3,0,0
+5/4/2025,Tigre,Boca Juniors,ARG,ARG,1,1,D,5,4,16,8,4,5,3,3,0,0
+5/30/2025,West Coast Rangers,Auckland City,NZ,NZ,2,5,A,,,,,,,,,0,1
+5/23/2025,Auckland City,Auckland United,NZ,NZ,1,0,H,,,,,,,,,0,0
+5/21/2025,Auckland City,Manurewa,NZ,NZ,5,2,H,,,,,,,,,0,0
+6/1/2025,Flamengo,Fortaleza,BRA,BRA,5,0,H,13,3,10,11,2,4,1,1,0,0
+5/28/2025,Flamengo,Deportivo Tachira,BRA,BRA,1,0,H,20,8,8,6,4,2,3,2,0,0
+5/28/2025,Betis,Chelsea,SP1,E0,1,4,A,3,7,16,12,4,4,2,3,0,0
+5/25/2025,Nott'm Forest,Chelsea,E0,E0,0,1,A,2,2,10,11,7,4,2,2,0,0
+5/16/2025,Chelsea,Man United,E0,E0,1,0,H,3,1,10,14,7,2,1,6,0,0
+6/8/2025,Los Angeles FC,Sporting Kansas City,USA,USA,3,1,H,9,2,15,14,8,2,2,1,0,0
+5/31/2025,Los Angeles FC,Club America,USA,MEX,2,1,H,8,4,14,9,11,3,5,3,0,0
+5/24/2025,CF Montreal,Los Angeles FC,USA,USA,2,2,D,7,8,14,13,5,3,2,1,0,0
+6/1/2025,Esperance,Stade Tunisien,TUN,TUN,1,0,H,2,1,19,17,6,3,2,3,0,0
+5/25/2025,Ben Guerdane,Esperance,TUN,TUN,0,3,A,2,8,,,,,0,2,0,0
+5/18/2025,Esperance,Zarzis,TUN,TUN,3,1,H,6,6,17,13,1,2,1,2,0,0
+5/27/2025,River Plate,Universitario de Deportes,ARG,PER,1,1,D,10,2,11,7,7,1,0,0,0,0
+5/20/2025,River Plate,Platense,ARG,ARG,1,1,D,5,3,9,21,3,2,2,7,0,1
+5/15/2025,River Plate,Independiente Valle,ARG,ECU,6,2,H,7,2,15,10,8,3,0,2,0,1
+5/10/2025,Toluca,Monterrey,MEX,MEX,2,1,H,4,3,11,9,5,6,3,3,2,0
+5/7/2025,Monterrey,Toluca,MEX,MEX,3,2,H,7,2,13,11,1,2,3,2,0,0
+5/4/2025,Monterrey,U.N.A.M.- Pumas,MEX,MEX,2,0,H,5,2,14,15,3,0,3,4,0,1
+5/23/2025,Como,Inter,I1,I1,0,2,A,4,7,10,9,1,4,1,2,1,0
+5/18/2025,Inter,Lazio,I1,I1,2,2,D,3,4,14,10,5,1,1,3,0,0
+5/28/2025,Urawa Reds,Cerezo Osaka,JAP,JAP,0,0,D,6,5,8,9,4,8,1,1,0,0
+5/24/2025,Nagoya Grampus,Urawa Reds,JAP,JAP,2,1,H,8,2,9,10,7,2,0,0,0,0
+5/21/2025,Kawasaki Frontale,Urawa Reds,JAP,JAP,2,2,D,6,4,7,8,4,4,1,3,0,0
+6/1/2025,Pyramids,Mamelodi Sundowns,EGY,SA,2,1,H,4,4,10,13,2,7,3,3,0,0
+5/23/2025,Mamelodi Sundowns,,SA,EGY,1,1,D,2,3,9,17,3,3,0,1,0,0
+5/18/2025,Mamelodi Sundowns,Magesi,SA,SA,2,0,H,4,1,10,12,4,1,0,2,0,0
+5/17/2025,Dortmund,Holstein Kiel,D1,D1,3,0,H,6,2,12,6,7,1,3,1,0,1
+5/11/2025,Leverkusen,Dortmund,D1,D1,2,4,A,10,5,7,8,12,0,0,2,0,0
+5/3/2025,Dortmund,Wolfsburg,D1,D1,4,0,H,5,2,13,6,4,3,0,1,0,0
+6/1/2025,Internacional,Fluminense,BRA,BRA,0,2,A,4,3,13,10,9,1,1,0,0,0
+5/29/2025,Fluminense,Once Caldas,BRA,COL,2,0,H,6,4,7,15,5,5,0,0,0,0
+5/24/2025,Fluminense,Vasco,BRA,BRA,2,1,H,5,2,11,16,6,2,4,3,0,0
+5/31/2025,Jeonbuk,Ulsan,KOR,KOR,3,1,H,7,4,11,5,4,6,2,1,0,0
+5/28/2025,Gwangju,Ulsan,KOR,KOR,1,1,D,7,3,15,21,7,1,2,3,0,0
+5/24/2025,Ulsan,Gimcheon,KOR,KOR,3,2,H,8,7,3,11,5,4,1,2,0,0
+5/25/2025,Venezia,Juventus,I1,I1,2,3,A,5,5,10,18,6,6,1,2,0,0
+5/18/2025,Juventus,Udinese,I1,I1,2,0,H,7,2,9,13,12,3,0,3,0,0
+5/10/2025,Lazio,Juventus,I1,I1,1,1,D,6,3,14,10,3,3,5,4,0,1
+5/25/2025,Fulham,Man City,E0,E0,0,2,A,3,5,11,5,1,6,0,0,0,0
+5/20/2025,Man City,Bournemouth,E0,E0,3,1,H,5,2,7,13,3,1,1,3,1,1
+5/17/2025,Crystal Palace,Man City,E0,E0,1,0,H,2,6,7,7,1,7,1,5,0,0
+6/10/2025,Touarga,Wydad Casablanca,MOR,MOR,2,0,H,,,,,,,,,,
+5/27/2025,Wydad Casablanca,Sevilla,MOR,SP1,0,1,A,,,,,,,1,2,0,0
+5/23/2025,Al-Nasr,Al-Ain,UAE,UAE,0,2,A,2,6,7,14,4,4,2,1,0,0
+5/19/2025,Al-Ain,Ajman,UAE,UAE,0,0,D,4,1,12,17,9,2,3,4,0,0
+5/12/2025,Sharjah,Al-Ain,UAE,UAE,0,3,A,2,7,7,10,1,5,4,1,1,0
+5/24/2025,Salzburg,SK Rapid,AUT,AUT,4,2,H,7,6,4,7,2,5,0,1,0,0
+5/18/2025,BW Linz,Salzburg,AUT,AUT,1,2,A,5,4,9,9,6,9,1,0,0,0
+5/9/2025,Sturm Graz,Salzburg,AUT,AUT,4,2,H,5,5,10,8,4,5,0,1,0,0
+5/24/2025,Real Madrid,Sociedad,SP1,SP1,2,0,H,8,1,5,7,11,4,0,0,0,0
+5/18/2025,Sevilla,Real Madrid,SP1,SP1,0,2,A,1,6,7,9,1,7,0,1,2,0
+5/14/2025,Real Madrid,Mallorca,SP1,SP1,2,1,H,13,2,6,15,26,0,0,3,0,0
+5/26/2025,Al Hilal,Al Qadsiah,KSA,KSA,2,0,H,8,1,16,12,3,2,1,0,0,0
+5/21/2025,Al Wahda,Al Hilal,KSA,KSA,1,1,D,2,3,11,9,6,7,4,2,0,0
+5/16/2025,Al Fateh,Al Hilal,KSA,KSA,3,4,A,6,13,10,8,8,9,4,2,0,0
+5/10/2025,Club America,Pachuca,MEX,MEX,2,0,H,5,5,7,10,4,6,2,5,0,1
+5/7/2025,Pachuca,Club America,MEX,MEX,0,0,D,2,8,13,12,5,3,3,3,0,0

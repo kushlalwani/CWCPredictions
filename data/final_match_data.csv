@@ -4255,6 +4255,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-01-03,Osasuna,Ath Bilbao,A,1.0,3.0,LaLiga,SP1,83.8,83.5,LaLiga,SP1,87.5,83.5,4.0,5.0,12.0,7.0,4.0,5.0,5.0,2.0,1.0,0.0
 2022-01-03,Villarreal,Levante,H,5.0,0.0,LaLiga,SP1,87.1,83.5,LaLiga,SP1,78.3,83.5,7.0,3.0,12.0,9.0,6.0,5.0,3.0,2.0,0.0,0.0
 2022-01-03,Man United,Wolves,A,0.0,1.0,Premier League,E0,88.6,85.9,Premier League,E0,86.8,85.9,2.0,6.0,9.0,8.0,3.0,8.0,3.0,1.0,0.0,0.0
+2022-01-03,Lanus,Tigre,D,0.0,0.0,Liga Professional,ARG,78.9,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-01-03,Tondela,Moreirense,H,2.0,1.0,Liga Portugal,P1,72.6,78.6,Liga Portugal,P1,80.6,78.6,5.0,5.0,12.0,21.0,1.0,3.0,2.0,2.0,0.0,0.0
 2022-01-04,Gimnasia L.P.,Talleres Cordoba,H,2.0,1.0,Liga Professional,ARG,77.5,76.8,Liga Professional,ARG,81.9,76.8,,,,,,,,,,
 2022-01-04,Central Cordoba,Huracan,D,2.0,2.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,80.3,76.8,,,,,,,,,,
@@ -4593,6 +4594,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-02-07,Santos,Flamengo RJ,A,1.0,2.0,Serie A,BRA,75.7,80.1,Serie A,BRA,82.5,80.1,,,,,,,,,,
 2022-02-07,Guadalajara Chivas,Juarez,D,0.0,0.0,Liga MX,MEX,79.8,75.5,Liga MX,MEX,74.3,75.5,,,,,,,,,,
 2022-02-07,Ceara,Internacional,D,1.0,1.0,Serie A,BRA,74.2,80.1,Serie A,BRA,81.2,80.1,,,,,,,,,,
+2022-02-07,Tigre,Talleres Cordoba,D,1.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,81.9,76.8,,,,,,,,,,
 2022-02-07,Tondela,Benfica,A,1.0,3.0,Liga Portugal,P1,72.6,78.6,Liga Portugal,P1,89.0,78.6,3.0,8.0,15.0,17.0,4.0,9.0,2.0,1.0,1.0,0.0
 2022-02-07,Boca Juniors,Banfield,A,0.0,3.0,Liga Professional,ARG,82.0,76.8,Liga Professional,ARG,77.4,76.8,,,,,,,,,,
 2022-02-07,FC Tokyo,Avispa Fukuoka,D,2.0,2.0,J. League,JAP,76.7,74.2,J. League,JAP,76.1,74.2,,,,,,,,,,
@@ -4711,6 +4713,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-02-16,Huracan,Estudiantes L.P.,A,2.0,3.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
 2022-02-16,Lanus,Barracas Central,H,2.0,0.0,Liga Professional,ARG,78.9,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
 2022-02-16,Ath Madrid,Levante,A,0.0,1.0,LaLiga,SP1,90.6,83.5,LaLiga,SP1,78.3,83.5,1.0,5.0,9.0,19.0,5.0,3.0,3.0,4.0,0.0,0.0
+2022-02-16,Tigre,Central Cordoba,D,1.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,77.2,76.8,,,,,,,,,,
 2022-02-17,Sarmiento Junin,Banfield,D,2.0,2.0,Liga Professional,ARG,75.5,76.8,Liga Professional,ARG,77.4,76.8,,,,,,,,,,
 2022-02-17,Defensa y Justicia,Racing Club,D,2.0,2.0,Liga Professional,ARG,78.4,76.8,Liga Professional,ARG,81.2,76.8,,,,,,,,,,
 2022-02-17,Gimnasia L.P.,San Lorenzo,H,1.0,0.0,Liga Professional,ARG,77.5,76.8,Liga Professional,ARG,79.1,76.8,,,,,,,,,,
@@ -4787,6 +4790,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-02-20,Venezia,Genoa,D,1.0,1.0,Serie A,I1,81.2,84.2,Serie A,I1,82.2,84.2,4.0,3.0,14.0,15.0,6.0,5.0,2.0,2.0,0.0,0.0
 2022-02-21,Atlas,U.N.A.M.- Pumas,D,0.0,0.0,Liga MX,MEX,76.3,75.5,Liga MX,MEX,79.8,75.5,,,,,,,,,,
 2022-02-21,Cagliari,Napoli,D,1.0,1.0,Serie A,I1,81.9,84.2,Serie A,I1,90.3,84.2,5.0,3.0,17.0,22.0,3.0,6.0,1.0,2.0,0.0,0.0
+2022-02-21,Barracas Central,Tigre,A,0.0,2.0,Liga Professional,ARG,76.2,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-02-21,Celta,Levante,D,1.0,1.0,LaLiga,SP1,84.3,83.5,LaLiga,SP1,78.3,83.5,4.0,3.0,15.0,16.0,2.0,5.0,3.0,5.0,0.0,0.0
 2022-02-21,Bologna,Spezia,H,2.0,1.0,Serie A,I1,88.5,84.2,Serie A,I1,80.6,84.2,7.0,2.0,7.0,13.0,11.0,0.0,1.0,1.0,0.0,0.0
 2022-02-21,Toluca,Cruz Azul,A,1.0,4.0,Liga MX,MEX,82.2,75.5,Liga MX,MEX,83.0,75.5,,,,,,,,,,
@@ -5011,6 +5015,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-03-09,Pachuca,Santos Laguna,H,2.0,0.0,Liga MX,MEX,77.3,75.5,Liga MX,MEX,73.0,75.5,,,,,,,,,,
 2022-03-09,Velez Sarsfield,Newells Old Boys,A,0.0,1.0,Liga Professional,ARG,82.2,76.8,Liga Professional,ARG,76.0,76.8,,,,,,,,,,
 2022-03-09,Kyoto,Vissel Kobe,H,2.0,0.0,J. League,JAP,76.5,74.2,J. League,JAP,79.0,74.2,,,,,,,,,,
+2022-03-09,Lanus,Tigre,A,1.0,2.0,Liga Professional,ARG,78.9,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-03-09,FC Tokyo,Yokohama F. Marinos,D,2.0,2.0,J. League,JAP,76.7,74.2,J. League,JAP,78.0,74.2,,,,,,,,,,
 2022-03-09,Avispa Fukuoka,Nagoya Grampus,A,2.0,3.0,J. League,JAP,76.1,74.2,J. League,JAP,76.5,74.2,,,,,,,,,,
 2022-03-09,Iwata,Kashiwa Reysol,D,2.0,2.0,J. League,JAP,73.3,74.2,J. League,JAP,74.5,74.2,,,,,,,,,,
@@ -5118,6 +5123,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-03-17,Olimpia,Fluminense,H,2.0,0.0,Division Profesional,PAR,77.5,72.4,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2022-03-17,Everton,Newcastle,H,1.0,0.0,Premier League,E0,86.3,85.9,Premier League,E0,91.9,85.9,3.0,6.0,13.0,11.0,5.0,7.0,2.0,1.0,1.0,0.0
 2022-03-18,Genoa,Torino,H,1.0,0.0,Serie A,I1,82.2,84.2,Serie A,I1,84.4,84.2,2.0,3.0,12.0,17.0,2.0,3.0,3.0,3.0,1.0,0.0
+2022-03-18,Tigre,Platense,H,4.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,79.5,76.8,,,,,,,,,,
 2022-03-18,Vizela,Famalicao,D,1.0,1.0,Liga Portugal,P1,71.5,78.6,Liga Portugal,P1,80.4,78.6,7.0,4.0,11.0,14.0,7.0,4.0,0.0,4.0,0.0,1.0
 2022-03-18,Ath Bilbao,Getafe,D,1.0,1.0,LaLiga,SP1,87.5,83.5,LaLiga,SP1,82.1,83.5,11.0,2.0,15.0,13.0,8.0,2.0,4.0,5.0,0.0,2.0
 2022-03-18,St Etienne,Troyes,D,1.0,1.0,Ligue 1,F1,80.3,83.1,Ligue 1,F1,70.2,83.1,3.0,4.0,13.0,9.0,1.0,4.0,2.0,2.0,0.0,0.0
@@ -5261,6 +5267,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-04-03,Atalanta,Napoli,A,1.0,3.0,Serie A,I1,89.9,84.2,Serie A,I1,90.3,84.2,3.0,5.0,15.0,11.0,9.0,1.0,2.0,3.0,0.0,0.0
 2022-04-04,Santos Laguna,Pachuca,H,3.0,1.0,Liga MX,MEX,73.0,75.5,Liga MX,MEX,77.3,75.5,,,,,,,,,,
 2022-04-04,Tigres,Club Tijuana,H,2.0,0.0,Liga MX,MEX,81.5,75.5,Liga MX,MEX,76.9,75.5,,,,,,,,,,
+2022-04-04,Tigre,Rosario Central,H,2.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
 2022-04-04,Verona,Genoa,H,1.0,0.0,Serie A,I1,82.5,84.2,Serie A,I1,82.2,84.2,3.0,4.0,16.0,15.0,2.0,5.0,4.0,3.0,0.0,0.0
 2022-04-04,Milan,Bologna,D,0.0,0.0,Serie A,I1,88.7,84.2,Serie A,I1,88.5,84.2,7.0,4.0,10.0,7.0,9.0,2.0,0.0,2.0,0.0,0.0
 2022-04-04,Crystal Palace,Arsenal,H,3.0,0.0,Premier League,E0,89.7,85.9,Premier League,E0,95.9,85.9,5.0,3.0,11.0,15.0,0.0,2.0,0.0,2.0,0.0,0.0
@@ -5376,6 +5383,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-04-10,Levante,Barcelona,A,2.0,3.0,LaLiga,SP1,78.3,83.5,LaLiga,SP1,94.8,83.5,6.0,7.0,8.0,7.0,4.0,3.0,1.0,1.0,0.0,0.0
 2022-04-10,Godoy Cruz,San Lorenzo,D,0.0,0.0,Liga Professional,ARG,79.3,76.8,Liga Professional,ARG,79.1,76.8,,,,,,,,,,
 2022-04-10,Vizela,Sp Braga,A,0.0,1.0,Liga Portugal,P1,71.5,78.6,Liga Portugal,P1,83.7,78.6,2.0,4.0,12.0,11.0,2.0,8.0,3.0,4.0,0.0,1.0
+2022-04-10,Sarmiento Junin,Tigre,D,2.0,2.0,Liga Professional,ARG,75.5,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-04-10,Torino,Milan,D,0.0,0.0,Serie A,I1,84.4,84.2,Serie A,I1,88.7,84.2,3.0,3.0,18.0,6.0,6.0,5.0,2.0,2.0,0.0,0.0
 2022-04-11,Bologna,Sampdoria,H,2.0,0.0,Serie A,I1,88.5,84.2,Serie A,I1,78.1,84.2,4.0,2.0,11.0,11.0,6.0,0.0,1.0,2.0,0.0,0.0
 2022-04-11,Vallecano,Valencia,D,1.0,1.0,LaLiga,SP1,82.1,83.5,LaLiga,SP1,82.6,83.5,4.0,2.0,13.0,17.0,5.0,4.0,3.0,4.0,0.0,0.0
@@ -5396,6 +5404,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-04-14,Corinthians,Deportivo Cali,H,1.0,0.0,Serie A,BRA,79.1,80.1,Primera A,COL,70.6,72.6,,,,,,,,,,
 2022-04-14,River Plate,Fortaleza,H,2.0,0.0,Liga Professional,ARG,81.0,76.8,Serie A,BRA,82.2,80.1,,,,,,,,,,
 2022-04-14,Colo Colo,Alianza Lima,H,2.0,1.0,Primera Division,CHI,78.2,71.8,Primera Division,PER,74.1,67.8,,,,,,,,,,
+2022-04-15,Tigre,Huracan,H,2.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,80.3,76.8,,,,,,,,,,
 2022-04-15,Guimaraes,Pacos Ferreira,H,4.0,0.0,Liga Portugal,P1,81.1,78.6,Liga Portugal,P1,70.2,78.6,8.0,0.0,14.0,15.0,2.0,4.0,0.0,5.0,0.0,1.0
 2022-04-15,Sociedad,Betis,D,0.0,0.0,LaLiga,SP1,84.6,83.5,LaLiga,SP1,86.5,83.5,2.0,2.0,17.0,7.0,8.0,1.0,4.0,4.0,1.0,0.0
 2022-04-15,Rennes,Monaco,A,2.0,3.0,Ligue 1,F1,82.4,83.1,Ligue 1,F1,87.0,83.1,4.0,4.0,7.0,15.0,6.0,0.0,1.0,3.0,0.0,0.0
@@ -5500,6 +5509,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-04-19,Liverpool,Man United,H,4.0,0.0,Premier League,E0,97.3,85.9,Premier League,E0,88.6,85.9,5.0,1.0,3.0,6.0,10.0,2.0,1.0,2.0,0.0,0.0
 2022-04-19,Betis,Elche,A,0.0,1.0,LaLiga,SP1,86.5,83.5,LaLiga,SP1,77.2,83.5,3.0,1.0,9.0,14.0,2.0,3.0,2.0,3.0,1.0,0.0
 2022-04-19,Villarreal,Valencia,H,2.0,0.0,LaLiga,SP1,87.1,83.5,LaLiga,SP1,82.6,83.5,5.0,1.0,14.0,12.0,3.0,2.0,2.0,3.0,0.0,0.0
+2022-04-19,Estudiantes L.P.,Tigre,H,2.0,1.0,Liga Professional,ARG,80.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-04-20,Everton,Leicester,D,1.0,1.0,Premier League,E0,86.3,85.9,Premier League,E0,82.4,85.9,3.0,3.0,8.0,17.0,5.0,4.0,3.0,1.0,0.0,0.0
 2022-04-20,Newcastle,Crystal Palace,H,1.0,0.0,Premier League,E0,91.9,85.9,Premier League,E0,89.7,85.9,4.0,2.0,12.0,12.0,2.0,5.0,1.0,1.0,0.0,0.0
 2022-04-20,Man City,Brighton,H,3.0,0.0,Premier League,E0,95.0,85.9,Premier League,E0,88.5,85.9,5.0,1.0,12.0,7.0,7.0,4.0,0.0,3.0,0.0,0.0
@@ -5663,6 +5673,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-04-29,Cerezo Osaka,Kashima Antlers,A,0.0,3.0,J. League,JAP,77.3,74.2,J. League,JAP,79.2,74.2,,,,,,,,,,
 2022-04-30,Necaxa,Guadalajara Chivas,A,0.0,1.0,Liga MX,MEX,75.0,75.5,Liga MX,MEX,79.8,75.5,,,,,,,,,,
 2022-04-30,Mainz,Bayern Munich,H,3.0,1.0,Bundesliga,D1,84.1,84.0,Bundesliga,D1,93.6,84.0,7.0,1.0,11.0,11.0,7.0,8.0,0.0,4.0,0.0,0.0
+2022-04-30,Velez Sarsfield,Tigre,H,3.0,2.0,Liga Professional,ARG,82.2,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-04-30,America MG,Athletico-PR,H,1.0,0.0,Serie A,BRA,74.7,80.1,Serie A,BRA,80.9,80.1,,,,,,,,,,
 2022-04-30,Ceara,Bragantino,A,0.0,1.0,Serie A,BRA,74.2,80.1,Serie A,BRA,80.3,80.1,,,,,,,,,,
 2022-04-30,Real Salt Lake,Los Angeles Galaxy,H,1.0,0.0,MLS,USA,80.5,77.0,MLS,USA,82.3,77.0,,,,,,,,,,
@@ -5958,6 +5969,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-05-15,Coritiba,America MG,H,1.0,0.0,Serie A,BRA,74.5,80.1,Serie A,BRA,74.7,80.1,,,,,,,,,,
 2022-05-15,Seattle Sounders,Minnesota United,H,3.0,1.0,MLS,USA,81.7,77.0,MLS,USA,79.6,77.0,,,,,,,,,,
 2022-05-15,Guimaraes,Gil Vicente,H,5.0,0.0,Liga Portugal,P1,81.1,78.6,Liga Portugal,P1,77.9,78.6,8.0,4.0,13.0,16.0,1.0,3.0,1.0,0.0,0.0,0.0
+2022-05-15,Tigre,Argentinos Jrs,D,1.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2022-05-15,Ath Bilbao,Osasuna,H,2.0,0.0,LaLiga,SP1,87.5,83.5,LaLiga,SP1,83.8,83.5,8.0,1.0,6.0,14.0,10.0,6.0,0.0,0.0,0.0,0.0
 2022-05-15,Cagliari,Inter,A,1.0,3.0,Serie A,I1,81.9,84.2,Serie A,I1,94.2,84.2,2.0,7.0,12.0,15.0,2.0,5.0,0.0,2.0,0.0,0.0
 2022-05-15,Villarreal,Sociedad,A,1.0,2.0,LaLiga,SP1,87.1,83.5,LaLiga,SP1,84.6,83.5,4.0,6.0,12.0,16.0,4.0,3.0,4.0,2.0,0.0,0.0
@@ -6065,6 +6077,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-05-22,CF Montreal,Real Salt Lake,A,1.0,2.0,MLS,USA,77.1,77.0,MLS,USA,80.5,77.0,,,,,,,,,,
 2022-05-22,New York City,Chicago Fire,H,1.0,0.0,MLS,USA,79.8,77.0,MLS,USA,74.5,77.0,,,,,,,,,,
 2022-05-22,Salernitana,Udinese,A,0.0,4.0,Serie A,I1,76.0,84.2,Serie A,I1,81.5,84.2,10.0,11.0,11.0,12.0,7.0,1.0,1.0,1.0,0.0,0.0
+2022-05-22,Boca Juniors,Tigre,H,3.0,0.0,Liga Professional,ARG,82.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-05-22,Fortaleza,Fluminense,A,0.0,1.0,Serie A,BRA,82.2,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2022-05-22,Alaves,Cadiz,A,0.0,1.0,LaLiga,SP1,81.8,83.5,LaLiga,SP1,76.9,83.5,2.0,6.0,11.0,13.0,4.0,4.0,0.0,1.0,0.0,0.0
 2022-05-22,Osasuna,Mallorca,A,0.0,2.0,LaLiga,SP1,83.8,83.5,LaLiga,SP1,82.8,83.5,1.0,6.0,8.0,14.0,5.0,7.0,2.0,2.0,0.0,0.0
@@ -6223,6 +6236,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-06-16,Argentinos Jrs,Independiente,H,2.0,1.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,80.8,76.8,,,,,,,,,,
 2022-06-16,Avai,Fortaleza,H,3.0,2.0,Serie A,BRA,71.6,80.1,Serie A,BRA,82.2,80.1,,,,,,,,,,
 2022-06-16,Palmeiras,Atletico GO,H,4.0,2.0,Serie A,BRA,83.4,80.1,Serie A,BRA,77.3,80.1,,,,,,,,,,
+2022-06-16,Boca Juniors,Tigre,H,5.0,3.0,Liga Professional,ARG,82.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-06-16,Flamengo RJ,Cuiaba,H,2.0,0.0,Serie A,BRA,82.5,80.1,Serie A,BRA,79.2,80.1,,,,,,,,,,
 2022-06-16,Goias,Internacional,A,1.0,2.0,Serie A,BRA,74.4,80.1,Serie A,BRA,81.2,80.1,,,,,,,,,,
 2022-06-16,New England Revolution,Orlando City,D,1.0,1.0,MLS,USA,76.2,77.0,MLS,USA,82.6,77.0,,,,,,,,,,
@@ -6258,6 +6272,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-06-19,Chicago Fire,DC United,H,1.0,0.0,MLS,USA,74.5,77.0,MLS,USA,76.9,77.0,,,,,,,,,,
 2022-06-19,FC Dallas,Vancouver Whitecaps,A,0.0,2.0,MLS,USA,77.9,77.0,MLS,USA,79.6,77.0,,,,,,,,,,
 2022-06-19,Real Salt Lake,San Jose Earthquakes,H,2.0,0.0,MLS,USA,80.5,77.0,MLS,USA,73.7,77.0,,,,,,,,,,
+2022-06-19,Tigre,Banfield,A,0.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,77.4,76.8,,,,,,,,,,
 2022-06-19,Huracan,Atl. Tucuman,D,0.0,0.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2022-06-19,Santos,Bragantino,D,2.0,2.0,Serie A,BRA,75.7,80.1,Serie A,BRA,80.3,80.1,,,,,,,,,,
 2022-06-20,Barracas Central,Boca Juniors,A,1.0,3.0,Liga Professional,ARG,76.2,76.8,Liga Professional,ARG,82.0,76.8,,,,,,,,,,
@@ -6287,6 +6302,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-06-26,Platense,Sarmiento Junin,D,0.0,0.0,Liga Professional,ARG,79.5,76.8,Liga Professional,ARG,75.5,76.8,,,,,,,,,,
 2022-06-26,Avai,Palmeiras,D,2.0,2.0,Serie A,BRA,71.6,80.1,Serie A,BRA,83.4,80.1,,,,,,,,,,
 2022-06-26,Los Angeles FC,New York Red Bulls,H,2.0,0.0,MLS,USA,80.4,77.0,MLS,USA,80.3,77.0,,,,,,,,,,
+2022-06-26,San Lorenzo,Tigre,D,1.0,1.0,Liga Professional,ARG,79.1,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-06-26,Goias,Cuiaba,H,1.0,0.0,Serie A,BRA,74.4,80.1,Serie A,BRA,79.2,80.1,,,,,,,,,,
 2022-06-26,Sao Paulo,Juventude,D,0.0,0.0,Serie A,BRA,80.0,80.1,Serie A,BRA,79.8,80.1,,,,,,,,,,
 2022-06-26,Philadelphia Union,New York City,H,2.0,1.0,MLS,USA,80.5,77.0,MLS,USA,79.8,77.0,,,,,,,,,,
@@ -6335,6 +6351,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-07-05,LASK,Hartberg,D,3.0,3.0,Bundesliga,AUT,78.5,74.4,Bundesliga,AUT,76.1,74.4,,,,,,,,,,
 2022-07-05,Rosario Central,Estudiantes L.P.,H,3.0,1.0,Liga Professional,ARG,78.3,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
 2022-07-05,Independiente,Huracan,H,3.0,0.0,Liga Professional,ARG,80.8,76.8,Liga Professional,ARG,80.3,76.8,,,,,,,,,,
+2022-07-05,Tigre,Boca Juniors,A,0.0,2.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,82.0,76.8,,,,,,,,,,
 2022-07-05,Hokkaido Consadole Sapporo,Kyoto,H,1.0,0.0,J. League,JAP,75.2,74.2,J. League,JAP,76.5,74.2,,,,,,,,,,
 2022-07-05,Avispa Fukuoka,Shonan Bellmare,D,0.0,0.0,J. League,JAP,76.1,74.2,J. League,JAP,76.5,74.2,,,,,,,,,,
 2022-07-05,Yokohama F. Marinos,Nagoya Grampus,H,2.0,1.0,J. League,JAP,78.0,74.2,J. League,JAP,76.5,74.2,,,,,,,,,,
@@ -6413,6 +6430,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-07-16,Kashiwa Reysol,Hokkaido Consadole Sapporo,H,1.0,0.0,J. League,JAP,74.5,74.2,J. League,JAP,75.2,74.2,,,,,,,,,,
 2022-07-17,Atl. San Luis,Monterrey,A,0.0,1.0,Liga MX,MEX,78.5,75.5,Liga MX,MEX,81.6,75.5,,,,,,,,,,
 2022-07-17,America MG,Bragantino,A,0.0,3.0,Serie A,BRA,74.7,80.1,Serie A,BRA,80.3,80.1,,,,,,,,,,
+2022-07-17,Tigre,Estudiantes L.P.,H,2.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
 2022-07-17,Botafogo RJ,Atletico-MG,A,0.0,1.0,Serie A,BRA,80.0,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2022-07-17,Atletico GO,Fortaleza,A,0.0,1.0,Serie A,BRA,77.3,80.1,Serie A,BRA,82.2,80.1,,,,,,,,,,
 2022-07-17,New York Red Bulls,New York City,A,0.0,1.0,MLS,USA,80.3,77.0,MLS,USA,79.8,77.0,,,,,,,,,,
@@ -6471,6 +6489,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-07-24,Avai,Flamengo RJ,A,1.0,2.0,Serie A,BRA,71.6,80.1,Serie A,BRA,82.5,80.1,,,,,,,,,,
 2022-07-24,Independiente,Atl. Tucuman,A,0.0,1.0,Liga Professional,ARG,80.8,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2022-07-24,Hartberg,Altach,H,2.0,1.0,Bundesliga,AUT,76.1,74.4,Bundesliga,AUT,70.9,74.4,,,,,,,,,,
+2022-07-24,Tigre,Platense,H,3.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,79.5,76.8,,,,,,,,,,
 2022-07-24,Atletico-MG,Corinthians,A,1.0,2.0,Serie A,BRA,80.7,80.1,Serie A,BRA,79.1,80.1,,,,,,,,,,
 2022-07-24,Juventude,Ceara,H,1.0,0.0,Serie A,BRA,79.8,80.1,Serie A,BRA,74.2,80.1,,,,,,,,,,
 2022-07-24,Palmeiras,Internacional,H,2.0,1.0,Serie A,BRA,83.4,80.1,Serie A,BRA,81.2,80.1,,,,,,,,,,
@@ -6533,6 +6552,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-07-31,Tirol,Hartberg,H,2.0,1.0,Bundesliga,AUT,71.4,74.4,Bundesliga,AUT,76.1,74.4,,,,,,,,,,
 2022-07-31,Platense,Barracas Central,D,0.0,0.0,Liga Professional,ARG,79.5,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
 2022-07-31,U.N.A.M.- Pumas,Monterrey,D,1.0,1.0,Liga MX,MEX,79.8,75.5,Liga MX,MEX,81.6,75.5,,,,,,,,,,
+2022-07-31,Racing Club,Tigre,D,3.0,3.0,Liga Professional,ARG,81.2,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-07-31,Cuiaba,Fortaleza,A,0.0,1.0,Serie A,BRA,79.2,80.1,Serie A,BRA,82.2,80.1,,,,,,,,,,
 2022-07-31,Internacional,Atletico-MG,H,3.0,0.0,Serie A,BRA,81.2,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2022-07-31,DC United,Orlando City,H,2.0,1.0,MLS,USA,76.9,77.0,MLS,USA,82.6,77.0,,,,,,,,,,
@@ -6665,6 +6685,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-08-13,Casa Pia,Benfica,A,0.0,1.0,Liga Portugal,P1,78.1,78.6,Liga Portugal,P1,89.0,78.6,2.0,4.0,10.0,9.0,4.0,9.0,6.0,4.0,0.0,1.0
 2022-08-13,Valladolid,Villarreal,A,0.0,3.0,LaLiga,SP1,80.4,83.5,LaLiga,SP1,87.1,83.5,6.0,4.0,6.0,10.0,4.0,5.0,1.0,0.0,0.0,0.0
 2022-08-13,Sturm Graz,Altach,H,4.0,0.0,Bundesliga,AUT,80.2,74.4,Bundesliga,AUT,70.9,74.4,,,,,,,,,,
+2022-08-13,Defensa y Justicia,Tigre,D,0.0,0.0,Liga Professional,ARG,78.4,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-08-13,Rosario Central,Barracas Central,H,3.0,1.0,Liga Professional,ARG,78.3,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
 2022-08-13,Monza,Torino,A,1.0,2.0,Serie A,I1,77.5,84.2,Serie A,I1,84.4,84.2,4.0,6.0,6.0,17.0,2.0,7.0,1.0,2.0,0.0,0.0
 2022-08-13,Brighton,Newcastle,D,0.0,0.0,Premier League,E0,88.5,85.9,Premier League,E0,91.9,85.9,7.0,1.0,8.0,6.0,7.0,3.0,2.0,3.0,0.0,0.0
@@ -6757,6 +6778,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-08-15,Verona,Napoli,A,2.0,5.0,Serie A,I1,82.5,84.2,Serie A,I1,90.3,84.2,3.0,8.0,15.0,6.0,4.0,8.0,2.0,2.0,0.0,0.0
 2022-08-16,Sarmiento Junin,Godoy Cruz,A,1.0,2.0,Liga Professional,ARG,75.5,76.8,Liga Professional,ARG,79.3,76.8,,,,,,,,,,
 2022-08-16,San Lorenzo,Platense,H,2.0,0.0,Liga Professional,ARG,79.1,76.8,Liga Professional,ARG,79.5,76.8,,,,,,,,,,
+2022-08-17,Tigre,Atl. Tucuman,D,0.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2022-08-17,Newells Old Boys,Lanus,H,2.0,0.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,78.9,76.8,,,,,,,,,,
 2022-08-17,Puebla,Necaxa,D,2.0,2.0,Liga MX,MEX,71.7,75.5,Liga MX,MEX,75.0,75.5,,,,,,,,,,
 2022-08-17,Los Angeles FC,DC United,H,1.0,0.0,MLS,USA,80.4,77.0,MLS,USA,76.9,77.0,,,,,,,,,,
@@ -6960,6 +6982,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-08-28,New York Red Bulls,Inter Miami,H,3.0,1.0,MLS,USA,80.3,77.0,MLS,USA,80.9,77.0,,,,,,,,,,
 2022-08-28,FC Cincinnati,Columbus Crew,D,2.0,2.0,MLS,USA,80.6,77.0,MLS,USA,82.7,77.0,,,,,,,,,,
 2022-08-28,Philadelphia Union,Colorado Rapids,H,6.0,0.0,MLS,USA,80.5,77.0,MLS,USA,77.2,77.0,,,,,,,,,,
+2022-08-28,Tigre,River Plate,D,1.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,81.0,76.8,,,,,,,,,,
 2022-08-28,Ceara,Athletico-PR,D,0.0,0.0,Serie A,BRA,74.2,80.1,Serie A,BRA,80.9,80.1,,,,,,,,,,
 2022-08-28,Chicago Fire,CF Montreal,A,0.0,2.0,MLS,USA,74.5,77.0,MLS,USA,77.1,77.0,,,,,,,,,,
 2022-08-28,Tigres,Necaxa,D,0.0,0.0,Liga MX,MEX,81.5,75.5,Liga MX,MEX,75.0,75.5,,,,,,,,,,
@@ -7065,6 +7088,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-09-04,Talleres Cordoba,Defensa y Justicia,A,1.0,5.0,Liga Professional,ARG,81.9,76.8,Liga Professional,ARG,78.4,76.8,,,,,,,,,,
 2022-09-04,New York Red Bulls,CF Montreal,A,1.0,2.0,MLS,USA,80.3,77.0,MLS,USA,77.1,77.0,,,,,,,,,,
 2022-09-04,Philadelphia Union,Columbus Crew,H,1.0,0.0,MLS,USA,80.5,77.0,MLS,USA,82.7,77.0,,,,,,,,,,
+2022-09-04,Independiente,Tigre,D,1.0,1.0,Liga Professional,ARG,80.8,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-09-04,Atl. San Luis,Club Leon,H,2.0,0.0,Liga MX,MEX,78.5,75.5,Liga MX,MEX,77.2,75.5,,,,,,,,,,
 2022-09-04,Sarmiento Junin,San Lorenzo,H,2.0,1.0,Liga Professional,ARG,75.5,76.8,Liga Professional,ARG,79.1,76.8,,,,,,,,,,
 2022-09-04,Portimonense,Famalicao,H,1.0,0.0,Liga Portugal,P1,69.6,78.6,Liga Portugal,P1,80.4,78.6,1.0,1.0,20.0,10.0,7.0,5.0,5.0,2.0,0.0,0.0
@@ -7113,6 +7137,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-09-07,Fluminense,Ceara,H,2.0,1.0,Serie A,BRA,80.7,80.1,Serie A,BRA,74.2,80.1,,,,,,,,,,
 2022-09-07,Puebla,Santos Laguna,H,1.0,0.0,Liga MX,MEX,71.7,75.5,Liga MX,MEX,73.0,75.5,,,,,,,,,,
 2022-09-07,Palmeiras,Athletico-PR,D,2.0,2.0,Serie A,BRA,83.4,80.1,Serie A,BRA,80.9,80.1,,,,,,,,,,
+2022-09-08,Tigre,Rosario Central,H,3.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
 2022-09-08,Coritiba,Santos,A,1.0,2.0,Serie A,BRA,74.5,80.1,Serie A,BRA,75.7,80.1,,,,,,,,,,
 2022-09-08,Flamengo RJ,Velez Sarsfield,H,2.0,1.0,Serie A,BRA,82.5,80.1,Liga Professional,ARG,82.2,76.8,,,,,,,,,,
 2022-09-09,Argentinos Jrs,Rosario Central,H,2.0,1.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
@@ -7161,6 +7186,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-09-10,Toluca,Juarez,H,3.0,0.0,Liga MX,MEX,82.2,75.5,Liga MX,MEX,74.3,75.5,,,,,,,,,,
 2022-09-10,Schalke 04,Bochum,H,3.0,1.0,Bundesliga,D1,75.7,84.0,Bundesliga,D1,79.5,84.0,8.0,2.0,12.0,16.0,3.0,8.0,2.0,3.0,0.0,0.0
 2022-09-10,DC United,FC Cincinnati,A,2.0,5.0,MLS,USA,76.9,77.0,MLS,USA,80.6,77.0,,,,,,,,,,
+2022-09-10,Tigre,Independiente,H,2.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,80.8,76.8,,,,,,,,,,
 2022-09-10,Inter,Torino,H,1.0,0.0,Serie A,I1,94.2,84.2,Serie A,I1,84.4,84.2,3.0,7.0,8.0,17.0,6.0,5.0,1.0,2.0,0.0,0.0
 2022-09-10,SK Rapid,Austria Vienna,A,1.0,2.0,Bundesliga,AUT,81.3,74.4,Bundesliga,AUT,78.0,74.4,,,,,,,,,,
 2022-09-10,Paris SG,Brest,H,1.0,0.0,Ligue 1,F1,95.2,83.1,Ligue 1,F1,82.8,83.1,4.0,3.0,13.0,16.0,3.0,5.0,4.0,2.0,0.0,0.0
@@ -7196,6 +7222,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-09-12,Almeria,Osasuna,A,0.0,1.0,LaLiga,SP1,79.1,83.5,LaLiga,SP1,83.8,83.5,2.0,4.0,4.0,9.0,5.0,10.0,0.0,2.0,0.0,0.0
 2022-09-12,Vizela,Estoril,A,0.0,1.0,Liga Portugal,P1,71.5,78.6,Liga Portugal,P1,76.4,78.6,7.0,2.0,11.0,12.0,16.0,2.0,4.0,4.0,1.0,0.0
 2022-09-12,Empoli,Roma,A,1.0,2.0,Serie A,I1,79.1,84.2,Serie A,I1,88.4,84.2,3.0,7.0,13.0,12.0,7.0,7.0,3.0,1.0,1.0,0.0
+2022-09-13,Godoy Cruz,Tigre,D,1.0,1.0,Liga Professional,ARG,79.3,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-09-13,Huracan,Barracas Central,D,1.0,1.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
 2022-09-14,CF Montreal,Chicago Fire,H,3.0,2.0,MLS,USA,77.1,77.0,MLS,USA,74.5,77.0,,,,,,,,,,
 2022-09-14,Minnesota United,Los Angeles FC,D,1.0,1.0,MLS,USA,79.6,77.0,MLS,USA,80.4,77.0,,,,,,,,,,
@@ -7267,6 +7294,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-09-18,Nantes,Lens,D,0.0,0.0,Ligue 1,F1,80.3,83.1,Ligue 1,F1,82.2,83.1,4.0,2.0,14.0,14.0,3.0,7.0,1.0,1.0,0.0,0.0
 2022-09-18,Salzburg,SK Rapid,D,1.0,1.0,Bundesliga,AUT,81.3,74.4,Bundesliga,AUT,81.3,74.4,,,,,,,,,,
 2022-09-18,Hoffenheim,Freiburg,D,0.0,0.0,Bundesliga,D1,82.6,84.0,Bundesliga,D1,84.0,84.0,3.0,4.0,15.0,9.0,5.0,3.0,1.0,2.0,0.0,0.0
+2022-09-18,Tigre,Velez Sarsfield,H,2.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,82.2,76.8,,,,,,,,,,
 2022-09-18,San Lorenzo,River Plate,A,0.0,1.0,Liga Professional,ARG,79.1,76.8,Liga Professional,ARG,81.0,76.8,,,,,,,,,,
 2022-09-18,Juventude,Fortaleza,D,1.0,1.0,Serie A,BRA,79.8,80.1,Serie A,BRA,82.2,80.1,,,,,,,,,,
 2022-09-18,Milan,Napoli,A,1.0,2.0,Serie A,I1,88.7,84.2,Serie A,I1,90.3,84.2,5.0,4.0,18.0,11.0,9.0,4.0,4.0,3.0,0.0,0.0
@@ -7329,6 +7357,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-09-24,River Plate,Talleres Cordoba,A,0.0,1.0,Liga Professional,ARG,81.0,76.8,Liga Professional,ARG,81.9,76.8,,,,,,,,,,
 2022-09-25,Independiente,Newells Old Boys,H,1.0,0.0,Liga Professional,ARG,80.8,76.8,Liga Professional,ARG,76.0,76.8,,,,,,,,,,
 2022-09-25,San Jose Earthquakes,Los Angeles Galaxy,A,2.0,3.0,MLS,USA,73.7,77.0,MLS,USA,82.3,77.0,,,,,,,,,,
+2022-09-25,Gimnasia L.P.,Tigre,A,0.0,1.0,Liga Professional,ARG,77.5,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-09-25,Rosario Central,Platense,D,1.0,1.0,Liga Professional,ARG,78.3,76.8,Liga Professional,ARG,79.5,76.8,,,,,,,,,,
 2022-09-26,Velez Sarsfield,Barracas Central,H,1.0,0.0,Liga Professional,ARG,82.2,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
 2022-09-26,Atl. Tucuman,Estudiantes L.P.,H,3.0,1.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
@@ -7500,6 +7529,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-10-09,Estudiantes L.P.,Racing Club,H,1.0,0.0,Liga Professional,ARG,80.0,76.8,Liga Professional,ARG,81.2,76.8,,,,,,,,,,
 2022-10-09,Juarez,Monterrey,A,0.0,1.0,Liga MX,MEX,74.3,75.5,Liga MX,MEX,81.6,75.5,,,,,,,,,,
 2022-10-09,CF Montreal,Columbus Crew,D,2.0,2.0,MLS,USA,77.1,77.0,MLS,USA,82.7,77.0,,,,,,,,,,
+2022-10-09,Tigre,Huracan,D,1.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,80.3,76.8,,,,,,,,,,
 2022-10-09,Gamba Osaka,FC Tokyo,D,0.0,0.0,J. League,JAP,77.4,74.2,J. League,JAP,76.7,74.2,,,,,,,,,,
 2022-10-09,Arsenal,Liverpool,H,3.0,2.0,Premier League,E0,95.9,85.9,Premier League,E0,97.3,85.9,7.0,3.0,11.0,11.0,4.0,3.0,1.0,2.0,0.0,0.0
 2022-10-09,Hertha,Freiburg,D,2.0,2.0,Bundesliga,D1,77.5,84.0,Bundesliga,D1,84.0,84.0,3.0,4.0,14.0,13.0,4.0,2.0,2.0,1.0,0.0,0.0
@@ -7567,6 +7597,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-10-14,Strasbourg,Lille,A,0.0,3.0,Ligue 1,F1,82.2,83.1,Ligue 1,F1,88.0,83.1,1.0,7.0,12.0,17.0,3.0,0.0,3.0,1.0,0.0,0.0
 2022-10-14,Vallecano,Getafe,D,0.0,0.0,LaLiga,SP1,82.1,83.5,LaLiga,SP1,82.1,83.5,3.0,3.0,13.0,17.0,4.0,1.0,2.0,3.0,0.0,0.0
 2022-10-14,Tigres,Pachuca,H,1.0,0.0,Liga MX,MEX,81.5,75.5,Liga MX,MEX,77.3,75.5,,,,,,,,,,
+2022-10-14,Newells Old Boys,Tigre,A,0.0,2.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-10-14,Atl. Tucuman,Rosario Central,D,1.0,1.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
 2022-10-14,Toluca,Santos Laguna,H,4.0,3.0,Liga MX,MEX,82.2,75.5,Liga MX,MEX,73.0,75.5,,,,,,,,,,
 2022-10-14,Schalke 04,Hoffenheim,A,0.0,3.0,Bundesliga,D1,75.7,84.0,Bundesliga,D1,82.6,84.0,2.0,7.0,12.0,8.0,4.0,5.0,2.0,2.0,0.0,0.0
@@ -7648,6 +7679,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-10-18,Bragantino,Santos,A,0.0,2.0,Serie A,BRA,80.3,80.1,Serie A,BRA,75.7,80.1,,,,,,,,,,
 2022-10-18,Sevilla,Valencia,D,1.0,1.0,LaLiga,SP1,82.8,83.5,LaLiga,SP1,82.6,83.5,5.0,5.0,11.0,26.0,11.0,6.0,4.0,7.0,1.0,0.0
 2022-10-19,Huracan,Platense,H,2.0,0.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,79.5,76.8,,,,,,,,,,
+2022-10-19,Central Cordoba,Tigre,A,1.0,2.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-10-19,Valladolid,Celta,H,4.0,1.0,LaLiga,SP1,80.4,83.5,LaLiga,SP1,84.3,83.5,7.0,5.0,12.0,11.0,3.0,7.0,1.0,1.0,0.0,0.0
 2022-10-19,Cadiz,Betis,D,0.0,0.0,LaLiga,SP1,76.9,83.5,LaLiga,SP1,86.5,83.5,3.0,3.0,15.0,7.0,4.0,9.0,1.0,2.0,0.0,1.0
 2022-10-19,Sociedad,Mallorca,H,1.0,0.0,LaLiga,SP1,84.6,83.5,LaLiga,SP1,82.8,83.5,7.0,3.0,18.0,9.0,10.0,7.0,1.0,2.0,0.0,0.0
@@ -7837,6 +7869,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-10-31,Guimaraes,Famalicao,H,3.0,2.0,Liga Portugal,P1,81.1,78.6,Liga Portugal,P1,80.4,78.6,6.0,4.0,19.0,20.0,1.0,7.0,4.0,5.0,0.0,0.0
 2022-10-31,Ceara,Fluminense,A,0.0,1.0,Serie A,BRA,74.2,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2022-11-01,U.N.A.M.- Pumas,Toluca,H,5.0,0.0,Liga MX,MEX,79.8,75.5,Liga MX,MEX,82.2,75.5,,,,,,,,,,
+2022-11-02,Godoy Cruz,Tigre,D,1.0,1.0,Liga Professional,ARG,79.3,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-11-02,SK Rapid,Salzburg,A,1.0,2.0,Bundesliga,AUT,81.3,74.4,Bundesliga,AUT,81.3,74.4,,,,,,,,,,
 2022-11-02,Central Cordoba,Barracas Central,H,3.0,1.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
 2022-11-02,Newells Old Boys,Defensa y Justicia,H,1.0,0.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,78.4,76.8,,,,,,,,,,
@@ -7904,6 +7937,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-11-06,Charlotte,New York Red Bulls,H,2.0,0.0,MLS,USA,80.5,77.0,MLS,USA,80.3,77.0,,,,,,,,,,
 2022-11-06,Sarmiento Junin,Argentinos Jrs,H,1.0,0.0,Liga Professional,ARG,75.5,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2022-11-06,Juventus,Inter,H,2.0,0.0,Serie A,I1,88.3,84.2,Serie A,I1,94.2,84.2,3.0,4.0,16.0,13.0,2.0,8.0,2.0,2.0,0.0,0.0
+2022-11-06,Tigre,Barracas Central,D,1.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
 2022-11-06,Sp Braga,Casa Pia,A,0.0,1.0,Liga Portugal,P1,83.7,78.6,Liga Portugal,P1,78.1,78.6,8.0,3.0,14.0,14.0,7.0,1.0,2.0,3.0,0.0,0.0
 2022-11-06,Maritimo,Famalicao,D,0.0,0.0,Liga Portugal,P1,73.6,78.6,Liga Portugal,P1,80.4,78.6,3.0,3.0,19.0,14.0,7.0,6.0,2.0,2.0,0.0,0.0
 2022-11-06,Villarreal,Mallorca,A,0.0,2.0,LaLiga,SP1,87.1,83.5,LaLiga,SP1,82.8,83.5,2.0,5.0,17.0,16.0,5.0,2.0,4.0,6.0,0.0,0.0
@@ -8051,6 +8085,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-12-04,Pachuca,Club Tijuana,D,0.0,0.0,Liga MX,MEX,77.3,75.5,Liga MX,MEX,76.9,75.5,,,,,,,,,,
 2022-12-05,Puebla,Club America,D,1.0,1.0,Liga MX,MEX,71.7,75.5,Liga MX,MEX,82.8,75.5,,,,,,,,,,
 2022-12-05,Atl. San Luis,Pachuca,D,2.0,2.0,Liga MX,MEX,78.5,75.5,Liga MX,MEX,77.3,75.5,,,,,,,,,,
+2022-12-05,River Plate,Tigre,A,1.0,2.0,Liga Professional,ARG,81.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-12-05,Bragantino,Atletico-MG,D,1.0,1.0,Serie A,BRA,80.3,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2022-12-06,Fortaleza,Athletico-PR,D,0.0,0.0,Serie A,BRA,82.2,80.1,Serie A,BRA,80.9,80.1,,,,,,,,,,
 2022-12-06,River Plate,Atl. Tucuman,D,0.0,0.0,Liga Professional,ARG,81.0,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
@@ -8062,6 +8097,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2022-12-06,Sao Paulo,America MG,H,1.0,0.0,Serie A,BRA,80.0,80.1,Serie A,BRA,74.7,80.1,,,,,,,,,,
 2022-12-06,Coritiba,Palmeiras,A,0.0,2.0,Serie A,BRA,74.5,80.1,Serie A,BRA,83.4,80.1,,,,,,,,,,
 2022-12-06,Velez Sarsfield,Platense,A,0.0,1.0,Liga Professional,ARG,82.2,76.8,Liga Professional,ARG,79.5,76.8,,,,,,,,,,
+2022-12-07,Argentinos Jrs,Tigre,H,2.0,1.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2022-12-07,Internacional,America MG,H,1.0,0.0,Serie A,BRA,81.2,80.1,Serie A,BRA,74.7,80.1,,,,,,,,,,
 2022-12-08,Huracan,Sarmiento Junin,H,4.0,1.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,75.5,76.8,,,,,,,,,,
 2022-12-08,Platense,Banfield,H,3.0,1.0,Liga Professional,ARG,79.5,76.8,Liga Professional,ARG,77.4,76.8,,,,,,,,,,
@@ -8409,6 +8445,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-01-27,Rosario Central,Argentinos Jrs,H,1.0,0.0,Liga Professional,ARG,78.3,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2023-01-28,Atalanta,Sampdoria,H,2.0,0.0,Serie A,I1,89.9,84.2,Serie A,I1,78.1,84.2,5.0,5.0,17.0,11.0,7.0,4.0,0.0,2.0,0.0,0.0
 2023-01-28,Talleres Cordoba,Independiente,A,0.0,1.0,Liga Professional,ARG,81.9,76.8,Liga Professional,ARG,80.8,76.8,,,,,,,,,,
+2023-01-28,Estudiantes L.P.,Tigre,A,1.0,2.0,Liga Professional,ARG,80.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-01-28,Getafe,Betis,A,0.0,1.0,LaLiga,SP1,82.1,83.5,LaLiga,SP1,86.5,83.5,1.0,2.0,25.0,12.0,6.0,1.0,4.0,2.0,0.0,0.0
 2023-01-28,Marseille,Monaco,D,1.0,1.0,Ligue 1,F1,85.4,83.1,Ligue 1,F1,87.0,83.1,6.0,4.0,7.0,9.0,6.0,3.0,2.0,2.0,0.0,0.0
 2023-01-28,Sevilla,Elche,H,3.0,0.0,LaLiga,SP1,82.8,83.5,LaLiga,SP1,77.2,83.5,8.0,1.0,7.0,8.0,5.0,2.0,1.0,3.0,0.0,1.0
@@ -8513,6 +8550,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-02-04,Columbus Crew,Real Salt Lake,H,4.0,0.0,MLS,USA,82.7,77.0,MLS,USA,80.5,77.0,,,,,,,,,,
 2023-02-04,Pachuca,Cruz Azul,A,0.0,2.0,Liga MX,MEX,77.3,75.5,Liga MX,MEX,83.0,75.5,,,,,,,,,,
 2023-02-04,FC Dallas,Portland Timbers,D,1.0,1.0,MLS,USA,77.9,77.0,MLS,USA,79.4,77.0,,,,,,,,,,
+2023-02-04,Tigre,Lanus,H,2.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.9,76.8,,,,,,,,,,
 2023-02-04,Club America,Club Leon,D,2.0,2.0,Liga MX,MEX,82.8,75.5,Liga MX,MEX,77.2,75.5,,,,,,,,,,
 2023-02-04,St. Louis City,Minnesota United,A,0.0,1.0,MLS,USA,78.0,77.0,MLS,USA,79.6,77.0,,,,,,,,,,
 2023-02-04,Colorado Rapids,Los Angeles FC,D,0.0,0.0,MLS,USA,77.2,77.0,MLS,USA,80.4,77.0,,,,,,,,,,
@@ -8569,6 +8607,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-02-07,Cuiaba,Santos,H,3.0,0.0,Serie A,BRA,79.2,80.1,Serie A,BRA,75.7,80.1,,,,,,,,,,
 2023-02-07,Instituto,Belgrano,H,1.0,0.0,Liga Professional,ARG,78.8,76.8,Liga Professional,ARG,78.2,76.8,,,,,,,,,,
 2023-02-07,Banfield,Argentinos Jrs,H,1.0,0.0,Liga Professional,ARG,77.4,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
+2023-02-07,Defensa y Justicia,Tigre,H,1.0,0.0,Liga Professional,ARG,78.4,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-02-07,Atletico-MG,America MG,D,2.0,2.0,Serie A,BRA,80.7,80.1,Serie A,BRA,74.7,80.1,,,,,,,,,,
 2023-02-07,CF Montreal,New York City,A,0.0,1.0,MLS,USA,77.1,77.0,MLS,USA,79.8,77.0,,,,,,,,,,
 2023-02-07,Atlas,Cruz Azul,H,2.0,0.0,Liga MX,MEX,76.3,75.5,Liga MX,MEX,83.0,75.5,,,,,,,,,,
@@ -8676,6 +8715,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-02-12,Angers,Auxerre,D,1.0,1.0,Ligue 1,F1,80.5,83.1,Ligue 1,F1,81.5,83.1,5.0,4.0,10.0,9.0,6.0,4.0,2.0,0.0,0.0,0.0
 2023-02-13,Estudiantes L.P.,Lanus,A,0.0,2.0,Liga Professional,ARG,80.0,76.8,Liga Professional,ARG,78.9,76.8,,,,,,,,,,
 2023-02-13,Instituto,Huracan,D,0.0,0.0,Liga Professional,ARG,78.8,76.8,Liga Professional,ARG,80.3,76.8,,,,,,,,,,
+2023-02-13,Racing Club,Tigre,D,2.0,2.0,Liga Professional,ARG,81.2,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-02-13,Verona,Salernitana,H,1.0,0.0,Serie A,I1,82.5,84.2,Serie A,I1,76.0,84.2,4.0,3.0,14.0,21.0,5.0,1.0,2.0,3.0,0.0,0.0
 2023-02-13,Rio Ave,Estoril,H,2.0,0.0,Liga Portugal,P1,78.3,78.6,Liga Portugal,P1,76.4,78.6,3.0,3.0,26.0,15.0,2.0,9.0,4.0,2.0,0.0,0.0
 2023-02-13,Sampdoria,Inter,D,0.0,0.0,Serie A,I1,78.1,84.2,Serie A,I1,94.2,84.2,2.0,5.0,13.0,11.0,3.0,7.0,3.0,1.0,0.0,0.0
@@ -8733,6 +8773,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-02-18,Strasbourg,Angers,H,2.0,1.0,Ligue 1,F1,82.2,83.1,Ligue 1,F1,80.5,83.1,5.0,3.0,14.0,16.0,4.0,5.0,3.0,3.0,0.0,0.0
 2023-02-18,Lanus,Rosario Central,H,3.0,0.0,Liga Professional,ARG,78.9,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
 2023-02-18,Porto,Rio Ave,H,1.0,0.0,Liga Portugal,P1,84.2,78.6,Liga Portugal,P1,78.3,78.6,4.0,4.0,19.0,17.0,8.0,2.0,2.0,3.0,0.0,0.0
+2023-02-18,Tigre,River Plate,A,0.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,81.0,76.8,,,,,,,,,,
 2023-02-18,Argentinos Jrs,Belgrano,H,3.0,0.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,78.2,76.8,,,,,,,,,,
 2023-02-18,Godoy Cruz,Estudiantes L.P.,A,0.0,1.0,Liga Professional,ARG,79.3,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
 2023-02-18,Atl. San Luis,Santos Laguna,D,1.0,1.0,Liga MX,MEX,78.5,75.5,Liga MX,MEX,73.0,75.5,,,,,,,,,,
@@ -8803,6 +8844,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-02-25,West Ham,Nott'm Forest,H,4.0,0.0,Premier League,E0,85.5,85.9,Premier League,E0,88.4,85.9,5.0,3.0,8.0,5.0,12.0,3.0,0.0,0.0,0.0,0.0
 2023-02-25,Cadiz,Vallecano,H,1.0,0.0,LaLiga,SP1,76.9,83.5,LaLiga,SP1,82.1,83.5,3.0,2.0,19.0,19.0,4.0,6.0,3.0,4.0,0.0,1.0
 2023-02-25,Necaxa,Queretaro,D,1.0,1.0,Liga MX,MEX,75.0,75.5,Liga MX,MEX,74.5,75.5,,,,,,,,,,
+2023-02-25,Belgrano,Tigre,A,0.0,2.0,Liga Professional,ARG,78.2,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-02-25,Yokohama F. Marinos,Urawa Reds,H,2.0,0.0,J. League,JAP,78.0,74.2,J. League,JAP,77.6,74.2,,,,,,,,,,
 2023-02-25,Avispa Fukuoka,Cerezo Osaka,H,2.0,1.0,J. League,JAP,76.1,74.2,J. League,JAP,77.3,74.2,,,,,,,,,,
 2023-02-25,Gamba Osaka,Sagan Tosu,D,1.0,1.0,J. League,JAP,77.4,74.2,J. League,JAP,72.1,74.2,,,,,,,,,,
@@ -8876,6 +8918,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-03-01,Liverpool,Wolves,H,2.0,0.0,Premier League,E0,97.3,85.9,Premier League,E0,86.8,85.9,6.0,1.0,13.0,14.0,5.0,2.0,2.0,3.0,0.0,0.0
 2023-03-02,Atl. San Luis,Puebla,H,2.0,0.0,Liga MX,MEX,78.5,75.5,Liga MX,MEX,71.7,75.5,,,,,,,,,,
 2023-03-02,Newells Old Boys,Velez Sarsfield,H,1.0,0.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,82.2,76.8,,,,,,,,,,
+2023-03-02,Tigre,Rosario Central,D,2.0,2.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
 2023-03-03,Sarmiento Junin,Rosario Central,H,4.0,1.0,Liga Professional,ARG,75.5,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
 2023-03-03,Benfica,Famalicao,H,2.0,0.0,Liga Portugal,P1,89.0,78.6,Liga Portugal,P1,80.4,78.6,7.0,0.0,13.0,13.0,7.0,2.0,1.0,3.0,0.0,0.0
 2023-03-03,Sociedad,Cadiz,D,0.0,0.0,LaLiga,SP1,84.6,83.5,LaLiga,SP1,76.9,83.5,3.0,2.0,18.0,18.0,4.0,0.0,0.0,1.0,0.0,0.0
@@ -8956,6 +8999,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-03-06,Nagoya Grampus,Cerezo Osaka,H,3.0,1.0,J. League,JAP,76.5,74.2,J. League,JAP,77.3,74.2,,,,,,,,,,
 2023-03-06,Shonan Bellmare,Albirex Niigata,D,2.0,2.0,J. League,JAP,76.5,74.2,J. League,JAP,75.7,74.2,,,,,,,,,,
 2023-03-06,Osasuna,Celta,D,0.0,0.0,LaLiga,SP1,83.8,83.5,LaLiga,SP1,84.3,83.5,5.0,0.0,12.0,12.0,6.0,4.0,0.0,2.0,0.0,0.0
+2023-03-06,Tigre,Talleres Cordoba,A,1.0,3.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,81.9,76.8,,,,,,,,,,
 2023-03-06,Argentinos Jrs,Platense,H,1.0,0.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,79.5,76.8,,,,,,,,,,
 2023-03-06,Brentford,Fulham,H,3.0,2.0,Premier League,E0,88.3,85.9,Premier League,E0,87.9,85.9,6.0,5.0,12.0,17.0,2.0,3.0,0.0,3.0,0.0,0.0
 2023-03-06,Casa Pia,Pacos Ferreira,H,2.0,1.0,Liga Portugal,P1,78.1,78.6,Liga Portugal,P1,70.2,78.6,4.0,2.0,14.0,20.0,4.0,2.0,3.0,2.0,0.0,0.0
@@ -8973,6 +9017,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-03-09,America MG,Santos,H,2.0,0.0,Serie A,BRA,74.7,80.1,Serie A,BRA,75.7,80.1,,,,,,,,,,
 2023-03-09,Bahia,Vasco,D,1.0,1.0,Serie A,BRA,80.7,80.1,Serie A,BRA,80.0,80.1,,,,,,,,,,
 2023-03-09,Cruzeiro,Bragantino,D,0.0,0.0,Serie A,BRA,80.3,80.1,Serie A,BRA,80.3,80.1,,,,,,,,,,
+2023-03-09,Boca Juniors,Tigre,A,0.0,1.0,Liga Professional,ARG,82.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-03-09,Millonarios,Atletico-MG,D,1.0,1.0,Primera A,COL,76.1,72.6,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2023-03-09,Millonarios,Atletico-MG,D,1.0,1.0,Primera A,COL,76.1,72.6,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2023-03-09,Fortaleza,Cerro Porteno,A,0.0,1.0,Serie A,BRA,82.2,80.1,Division Profesional,PAR,76.5,72.4,,,,,,,,,,
@@ -9426,6 +9471,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-04-14,Spezia,Lazio,A,0.0,3.0,Serie A,I1,80.6,84.2,Serie A,I1,87.9,84.2,2.0,7.0,12.0,7.0,2.0,3.0,3.0,4.0,1.0,0.0
 2023-04-14,Toulouse,Lyon,A,1.0,2.0,Ligue 1,F1,81.4,83.1,Ligue 1,F1,87.2,83.1,6.0,3.0,14.0,10.0,8.0,5.0,1.0,4.0,0.0,0.0
 2023-04-14,Atl. San Luis,Juarez,H,2.0,0.0,Liga MX,MEX,78.5,75.5,Liga MX,MEX,74.3,75.5,,,,,,,,,,
+2023-04-14,Tigre,Sarmiento Junin,H,1.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,75.5,76.8,,,,,,,,,,
 2023-04-14,Schalke 04,Hertha,H,5.0,2.0,Bundesliga,D1,75.7,84.0,Bundesliga,D1,77.5,84.0,7.0,5.0,12.0,19.0,7.0,8.0,2.0,3.0,0.0,0.0
 2023-04-14,Cremonese,Empoli,H,1.0,0.0,Serie A,I1,79.6,84.2,Serie A,I1,79.1,84.2,5.0,1.0,11.0,9.0,3.0,8.0,1.0,0.0,0.0,0.0
 2023-04-15,Defensa y Justicia,Instituto,H,1.0,0.0,Liga Professional,ARG,78.4,76.8,Liga Professional,ARG,78.8,76.8,,,,,,,,,,
@@ -9663,6 +9709,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-04-24,Santos Laguna,Queretaro,A,0.0,2.0,Liga MX,MEX,73.0,75.5,Liga MX,MEX,74.5,75.5,,,,,,,,,,
 2023-04-24,River Plate,Independiente,H,2.0,0.0,Liga Professional,ARG,81.0,76.8,Liga Professional,ARG,80.8,76.8,,,,,,,,,,
 2023-04-24,Barracas Central,Defensa y Justicia,A,0.0,2.0,Liga Professional,ARG,76.2,76.8,Liga Professional,ARG,78.4,76.8,,,,,,,,,,
+2023-04-25,Tigre,Huracan,H,1.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,80.3,76.8,,,,,,,,,,
 2023-04-25,Betis,Sociedad,D,0.0,0.0,LaLiga,SP1,86.5,83.5,LaLiga,SP1,84.6,83.5,1.0,3.0,13.0,23.0,2.0,4.0,1.0,3.0,0.0,0.0
 2023-04-25,Leeds,Leicester,D,1.0,1.0,Premier League,E0,86.2,85.9,Premier League,E0,82.4,85.9,3.0,3.0,14.0,15.0,3.0,6.0,4.0,2.0,0.0,0.0
 2023-04-25,Wolves,Crystal Palace,H,2.0,0.0,Premier League,E0,86.8,85.9,Premier League,E0,89.7,85.9,3.0,4.0,13.0,14.0,6.0,11.0,5.0,4.0,0.0,0.0
@@ -9724,6 +9771,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-04-29,Barcelona,Betis,H,4.0,0.0,LaLiga,SP1,94.8,83.5,LaLiga,SP1,86.5,83.5,8.0,1.0,10.0,9.0,10.0,0.0,0.0,2.0,0.0,1.0
 2023-04-29,Coritiba,Sao Paulo,D,1.0,1.0,Serie A,BRA,74.5,80.1,Serie A,BRA,80.0,80.1,,,,,,,,,,
 2023-04-29,Fortaleza,Fluminense,H,4.0,2.0,Serie A,BRA,82.2,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
+2023-04-29,Gimnasia L.P.,Tigre,D,1.0,1.0,Liga Professional,ARG,77.5,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-04-29,Gil Vicente,Benfica,A,0.0,2.0,Liga Portugal,P1,77.9,78.6,Liga Portugal,P1,89.0,78.6,5.0,7.0,17.0,8.0,7.0,11.0,3.0,2.0,0.0,0.0
 2023-04-29,Bragantino,Cruzeiro,A,0.0,3.0,Serie A,BRA,80.3,80.1,Serie A,BRA,80.3,80.1,,,,,,,,,,
 2023-04-29,Palmeiras,Corinthians,H,2.0,1.0,Serie A,BRA,83.4,80.1,Serie A,BRA,79.1,80.1,,,,,,,,,,
@@ -9898,6 +9946,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-05-07,Rosario Central,Estudiantes L.P.,D,0.0,0.0,Liga Professional,ARG,78.3,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
 2023-05-07,Lecce,Verona,A,0.0,1.0,Serie A,I1,82.3,84.2,Serie A,I1,82.5,84.2,2.0,3.0,11.0,13.0,4.0,4.0,2.0,5.0,0.0,0.0
 2023-05-07,Pacos Ferreira,Sp Lisbon,A,0.0,4.0,Liga Portugal,P1,70.2,78.6,Liga Portugal,P1,88.8,78.6,0.0,8.0,12.0,11.0,0.0,6.0,1.0,1.0,0.0,0.0
+2023-05-07,Tigre,Banfield,A,1.0,2.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,77.4,76.8,,,,,,,,,,
 2023-05-07,Newcastle,Arsenal,A,0.0,2.0,Premier League,E0,91.9,85.9,Premier League,E0,95.9,85.9,5.0,6.0,16.0,12.0,9.0,4.0,2.0,1.0,0.0,0.0
 2023-05-07,Racing Club,San Lorenzo,D,1.0,1.0,Liga Professional,ARG,81.2,76.8,Liga Professional,ARG,79.1,76.8,,,,,,,,,,
 2023-05-07,Troyes,Paris SG,A,1.0,3.0,Ligue 1,F1,70.2,83.1,Ligue 1,F1,95.2,83.1,3.0,12.0,5.0,5.0,6.0,6.0,1.0,0.0,0.0,0.0
@@ -9976,6 +10025,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-05-13,Villarreal,Ath Bilbao,H,5.0,1.0,LaLiga,SP1,87.1,83.5,LaLiga,SP1,87.5,83.5,11.0,5.0,11.0,13.0,7.0,5.0,4.0,3.0,0.0,0.0
 2023-05-13,Portimonense,Benfica,A,1.0,5.0,Liga Portugal,P1,69.6,78.6,Liga Portugal,P1,89.0,78.6,1.0,10.0,12.0,12.0,3.0,5.0,2.0,1.0,0.0,0.0
 2023-05-13,Strasbourg,Nice,H,2.0,0.0,Ligue 1,F1,82.2,83.1,Ligue 1,F1,84.6,83.1,3.0,4.0,14.0,8.0,2.0,3.0,1.0,1.0,0.0,0.0
+2023-05-13,Independiente,Tigre,H,2.0,1.0,Liga Professional,ARG,80.8,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-05-13,Osasuna,Almeria,H,3.0,1.0,LaLiga,SP1,83.8,83.5,LaLiga,SP1,79.1,83.5,7.0,3.0,7.0,7.0,4.0,1.0,0.0,0.0,0.0,0.0
 2023-05-13,Bahia,Flamengo RJ,A,2.0,3.0,Serie A,BRA,80.7,80.1,Serie A,BRA,82.5,80.1,,,,,,,,,,
 2023-05-13,Paris SG,Ajaccio,H,5.0,0.0,Ligue 1,F1,95.2,83.1,Ligue 1,F1,71.3,83.1,9.0,2.0,7.0,6.0,8.0,3.0,1.0,1.0,1.0,1.0
@@ -10163,6 +10213,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-05-21,Philadelphia Union,New England Revolution,H,3.0,0.0,MLS,USA,80.5,77.0,MLS,USA,76.2,77.0,,,,,,,,,,
 2023-05-21,Santos,Palmeiras,D,0.0,0.0,Serie A,BRA,75.7,80.1,Serie A,BRA,83.4,80.1,,,,,,,,,,
 2023-05-21,Lanus,Newells Old Boys,H,1.0,0.0,Liga Professional,ARG,78.9,76.8,Liga Professional,ARG,76.0,76.8,,,,,,,,,,
+2023-05-21,Tigre,Atl. Tucuman,D,0.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2023-05-21,Austin FC,Toronto FC,H,1.0,0.0,MLS,USA,78.2,77.0,MLS,USA,74.1,77.0,,,,,,,,,,
 2023-05-21,FC Dallas,Houston Dynamo,D,1.0,1.0,MLS,USA,77.9,77.0,MLS,USA,81.7,77.0,,,,,,,,,,
 2023-05-21,Monterrey,Tigres,A,0.0,1.0,Liga MX,MEX,81.6,75.5,Liga MX,MEX,81.5,75.5,,,,,,,,,,
@@ -10274,6 +10325,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-05-28,Botafogo RJ,America MG,H,2.0,0.0,Serie A,BRA,80.0,80.1,Serie A,BRA,74.7,80.1,,,,,,,,,,
 2023-05-28,Atletico-MG,Palmeiras,D,1.0,1.0,Serie A,BRA,80.7,80.1,Serie A,BRA,83.4,80.1,,,,,,,,,,
 2023-05-28,Bragantino,Santos,H,2.0,0.0,Serie A,BRA,80.3,80.1,Serie A,BRA,75.7,80.1,,,,,,,,,,
+2023-05-28,Boca Juniors,Tigre,H,1.0,0.0,Liga Professional,ARG,82.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-05-28,Sporting Kansas City,Portland Timbers,H,4.0,1.0,MLS,USA,76.7,77.0,MLS,USA,79.4,77.0,,,,,,,,,,
 2023-05-28,Talleres Cordoba,Argentinos Jrs,H,1.0,0.0,Liga Professional,ARG,81.9,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2023-05-28,Juventus,Milan,A,0.0,1.0,Serie A,I1,88.3,84.2,Serie A,I1,88.7,84.2,3.0,3.0,12.0,10.0,4.0,5.0,1.0,2.0,0.0,0.0
@@ -10339,6 +10391,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-06-03,Nantes,Angers,H,1.0,0.0,Ligue 1,F1,80.3,83.1,Ligue 1,F1,80.5,83.1,7.0,1.0,12.0,13.0,8.0,1.0,1.0,0.0,0.0,0.0
 2023-06-03,Reims,Montpellier,A,1.0,3.0,Ligue 1,F1,80.1,83.1,Ligue 1,F1,81.5,83.1,5.0,8.0,16.0,9.0,4.0,7.0,1.0,2.0,0.0,0.0
 2023-06-03,Auxerre,Lens,A,1.0,3.0,Ligue 1,F1,81.5,83.1,Ligue 1,F1,82.2,83.1,5.0,7.0,10.0,16.0,5.0,5.0,1.0,3.0,0.0,0.0
+2023-06-03,Tigre,Argentinos Jrs,A,0.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2023-06-03,Brest,Rennes,A,1.0,2.0,Ligue 1,F1,82.8,83.1,Ligue 1,F1,82.4,83.1,5.0,3.0,10.0,14.0,3.0,3.0,2.0,4.0,0.0,0.0
 2023-06-03,Torino,Inter,A,0.0,1.0,Serie A,I1,84.4,84.2,Serie A,I1,94.2,84.2,5.0,4.0,6.0,7.0,6.0,4.0,1.0,2.0,0.0,0.0
 2023-06-03,Ajaccio,Marseille,H,1.0,0.0,Ligue 1,F1,71.3,83.1,Ligue 1,F1,85.4,83.1,1.0,5.0,19.0,15.0,2.0,3.0,1.0,1.0,0.0,0.0
@@ -10440,6 +10493,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-06-22,River Plate,Instituto,H,3.0,1.0,Liga Professional,ARG,81.0,76.8,Liga Professional,ARG,78.8,76.8,,,,,,,,,,
 2023-06-22,Gremio,America MG,H,3.0,1.0,Serie A,BRA,81.1,80.1,Serie A,BRA,74.7,80.1,,,,,,,,,,
 2023-06-22,Racing Club,Barracas Central,D,1.0,1.0,Liga Professional,ARG,81.2,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
+2023-06-22,Tigre,Velez Sarsfield,H,2.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,82.2,76.8,,,,,,,,,,
 2023-06-22,Portland Timbers,Chicago Fire,A,1.0,2.0,MLS,USA,79.4,77.0,MLS,USA,74.5,77.0,,,,,,,,,,
 2023-06-22,Los Angeles Galaxy,Sporting Kansas City,D,2.0,2.0,MLS,USA,82.3,77.0,MLS,USA,76.7,77.0,,,,,,,,,,
 2023-06-22,Los Angeles FC,Seattle Sounders,H,1.0,0.0,MLS,USA,80.4,77.0,MLS,USA,81.7,77.0,,,,,,,,,,
@@ -10563,6 +10617,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-07-10,Rosario Central,Huracan,H,1.0,0.0,Liga Professional,ARG,78.3,76.8,Liga Professional,ARG,80.3,76.8,,,,,,,,,,
 2023-07-10,Hartberg,Tirol,H,3.0,0.0,Bundesliga,AUT,76.1,74.4,Bundesliga,AUT,71.4,74.4,,,,,,,,,,
 2023-07-11,Santos,Cuiaba,D,0.0,0.0,Serie A,BRA,75.7,80.1,Serie A,BRA,79.2,80.1,,,,,,,,,,
+2023-07-11,Belgrano,Tigre,A,0.0,3.0,Liga Professional,ARG,78.2,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-07-11,Real Salt Lake,Houston Dynamo,D,1.0,1.0,MLS,USA,80.5,77.0,MLS,USA,81.7,77.0,,,,,,,,,,
 2023-07-12,Coritiba,Corinthians,A,0.0,2.0,Serie A,BRA,74.5,80.1,Serie A,BRA,79.1,80.1,,,,,,,,,,
 2023-07-12,Bahia,Atletico-MG,H,4.0,1.0,Serie A,BRA,80.7,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
@@ -10628,6 +10683,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-07-16,Athletico-PR,Bahia,H,2.0,0.0,Serie A,BRA,80.9,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2023-07-17,Central Cordoba,Independiente,A,0.0,1.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,80.8,76.8,,,,,,,,,,
 2023-07-17,Pachuca,U.N.A.M.- Pumas,D,1.0,1.0,Liga MX,MEX,77.3,75.5,Liga MX,MEX,79.8,75.5,,,,,,,,,,
+2023-07-17,Tigre,Barracas Central,A,0.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
 2023-07-18,Goias,Atletico-MG,D,0.0,0.0,Serie A,BRA,74.4,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2023-07-18,Newells Old Boys,Atl. Tucuman,D,0.0,0.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2023-07-22,Cuiaba,Sao Paulo,H,2.0,1.0,Serie A,BRA,79.2,80.1,Serie A,BRA,80.0,80.1,,,,,,,,,,
@@ -10675,6 +10731,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-07-30,Goias,Gremio,D,1.0,1.0,Serie A,BRA,74.4,80.1,Serie A,BRA,81.1,80.1,,,,,,,,,,
 2023-07-30,Austria Vienna,Sturm Graz,A,0.0,3.0,Bundesliga,AUT,78.0,74.4,Bundesliga,AUT,80.2,74.4,,,,,,,,,,
 2023-07-30,Sao Paulo,Bahia,D,0.0,0.0,Serie A,BRA,80.0,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
+2023-07-30,Tigre,San Lorenzo,H,2.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,79.1,76.8,,,,,,,,,,
 2023-07-30,Atletico-MG,Flamengo RJ,A,1.0,2.0,Serie A,BRA,80.7,80.1,Serie A,BRA,82.5,80.1,,,,,,,,,,
 2023-07-31,Godoy Cruz,Instituto,H,4.0,2.0,Liga Professional,ARG,79.3,76.8,Liga Professional,ARG,78.8,76.8,,,,,,,,,,
 2023-08-01,U.N.A.M.- Pumas,Juarez,H,2.0,1.0,Liga MX,MEX,79.8,75.5,Liga MX,MEX,74.3,75.5,,,,,,,,,,
@@ -10694,6 +10751,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-08-04,Atletico Nacional,Racing Club,H,4.0,2.0,Primera A,COL,76.0,72.6,Liga Professional,ARG,81.2,76.8,,,,,,,,,,
 2023-08-04,Puebla,Toluca,A,1.0,2.0,Liga MX,MEX,71.7,75.5,Liga MX,MEX,82.2,75.5,,,,,,,,,,
 2023-08-05,Estudiantes L.P.,Velez Sarsfield,H,2.0,0.0,Liga Professional,ARG,80.0,76.8,Liga Professional,ARG,82.2,76.8,,,,,,,,,,
+2023-08-05,Tigre,Newells Old Boys,D,2.0,2.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,76.0,76.8,,,,,,,,,,
 2023-08-05,Club Leon,Atl. San Luis,A,1.0,3.0,Liga MX,MEX,77.2,75.5,Liga MX,MEX,78.5,75.5,,,,,,,,,,
 2023-08-05,Tigres,Puebla,H,1.0,0.0,Liga MX,MEX,81.5,75.5,Liga MX,MEX,71.7,75.5,,,,,,,,,,
 2023-08-05,San Lorenzo,Defensa y Justicia,D,0.0,0.0,Liga Professional,ARG,79.1,76.8,Liga Professional,ARG,78.4,76.8,,,,,,,,,,
@@ -10750,6 +10808,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-08-10,Independiente,CS Deportivo Pereira,D,1.0,1.0,Liga Professional,ARG,80.8,76.8,Primera A,COL,73.7,72.6,,,,,,,,,,
 2023-08-10,Boca Juniors,Nacional Uruguay,D,2.0,2.0,Liga Professional,ARG,82.0,76.8,Primera Division,URU,79.1,72.5,,,,,,,,,,
 2023-08-10,Palmeiras,Atletico-MG,D,0.0,0.0,Serie A,BRA,83.4,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
+2023-08-10,Central Cordoba,Tigre,H,1.0,0.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-08-10,Austin FC,Los Angeles FC,A,2.0,4.0,MLS,USA,78.2,77.0,MLS,USA,80.4,77.0,,,,,,,,,,
 2023-08-11,Athletico-PR,Fortaleza,D,1.0,1.0,Serie A,BRA,80.9,80.1,Serie A,BRA,82.2,80.1,,,,,,,,,,
 2023-08-11,Sao Paulo,Bragantino,H,1.0,0.0,Serie A,BRA,80.0,80.1,Serie A,BRA,80.3,80.1,,,,,,,,,,
@@ -10869,6 +10928,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-08-20,Lens,Rennes,D,1.0,1.0,Ligue 1,F1,82.2,83.1,Ligue 1,F1,82.4,83.1,4.0,5.0,15.0,10.0,11.0,0.0,2.0,1.0,0.0,0.0
 2023-08-20,Bahia,Bragantino,H,4.0,0.0,Serie A,BRA,80.7,80.1,Serie A,BRA,80.3,80.1,,,,,,,,,,
 2023-08-20,Santos,Gremio,H,2.0,1.0,Serie A,BRA,75.7,80.1,Serie A,BRA,81.1,80.1,,,,,,,,,,
+2023-08-20,Sarmiento Junin,Tigre,H,2.0,0.0,Liga Professional,ARG,75.5,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-08-20,Rosario Central,Atl. Tucuman,D,0.0,0.0,Liga Professional,ARG,78.3,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2023-08-20,Betis,Ath Madrid,D,0.0,0.0,LaLiga,SP1,86.5,83.5,LaLiga,SP1,90.6,83.5,0.0,1.0,10.0,8.0,2.0,7.0,2.0,1.0,0.0,0.0
 2023-08-20,Vizela,Arouca,D,2.0,2.0,Liga Portugal,P1,71.5,78.6,Liga Portugal,P1,78.1,78.6,7.0,2.0,24.0,11.0,6.0,3.0,6.0,6.0,1.0,1.0
@@ -10988,6 +11048,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-08-27,New York Red Bulls,Inter Miami,A,0.0,2.0,MLS,USA,80.3,77.0,MLS,USA,80.9,77.0,,,,,,,,,,
 2023-08-27,Orlando City,St. Louis City,H,2.0,1.0,MLS,USA,82.6,77.0,MLS,USA,78.0,77.0,,,,,,,,,,
 2023-08-27,Corinthians,Goias,D,1.0,1.0,Serie A,BRA,79.1,80.1,Serie A,BRA,74.4,80.1,,,,,,,,,,
+2023-08-27,Tigre,Racing Club,A,1.0,2.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,81.2,76.8,,,,,,,,,,
 2023-08-27,FC Dallas,Austin FC,H,1.0,0.0,MLS,USA,77.9,77.0,MLS,USA,78.2,77.0,,,,,,,,,,
 2023-08-27,Sporting Kansas City,San Jose Earthquakes,H,3.0,0.0,MLS,USA,76.7,77.0,MLS,USA,73.7,77.0,,,,,,,,,,
 2023-08-27,Club America,Club Leon,D,1.0,1.0,Liga MX,MEX,82.8,75.5,Liga MX,MEX,77.2,75.5,,,,,,,,,,
@@ -11118,6 +11179,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-09-04,Newells Old Boys,Rosario Central,D,0.0,0.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
 2023-09-04,U.N.A.M.- Pumas,Atl. San Luis,H,3.0,1.0,Liga MX,MEX,79.8,75.5,Liga MX,MEX,78.5,75.5,,,,,,,,,,
 2023-09-04,Independiente,Estudiantes L.P.,A,1.0,2.0,Liga Professional,ARG,80.8,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
+2023-09-04,Godoy Cruz,Tigre,D,1.0,1.0,Liga Professional,ARG,79.3,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-09-04,LASK,Sturm Graz,H,2.0,1.0,Bundesliga,AUT,78.5,74.4,Bundesliga,AUT,80.2,74.4,,,,,,,,,,
 2023-09-04,Salzburg,Austria Vienna,D,3.0,3.0,Bundesliga,AUT,81.3,74.4,Bundesliga,AUT,78.0,74.4,,,,,,,,,,
 2023-09-04,Kashiwa Reysol,Kashima Antlers,H,1.0,0.0,J. League,JAP,74.5,74.2,J. League,JAP,79.2,74.2,,,,,,,,,,
@@ -11142,6 +11204,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-09-05,Central Cordoba,Sarmiento Junin,A,0.0,1.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,75.5,76.8,,,,,,,,,,
 2023-09-05,Corinthians,Fortaleza,D,1.0,1.0,Serie A,BRA,79.1,80.1,Serie A,BRA,82.2,80.1,,,,,,,,,,
 2023-09-06,Barracas Central,Rosario Central,D,0.0,0.0,Liga Professional,ARG,76.2,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
+2023-09-07,Instituto,Tigre,A,0.0,1.0,Liga Professional,ARG,78.8,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-09-07,Toronto FC,St. Louis City,A,0.0,1.0,MLS,USA,74.1,77.0,MLS,USA,78.0,77.0,,,,,,,,,,
 2023-09-07,Santos,Goias,H,4.0,3.0,Serie A,BRA,75.7,80.1,Serie A,BRA,74.4,80.1,,,,,,,,,,
 2023-09-07,Vancouver Whitecaps,Seattle Sounders,A,2.0,3.0,MLS,USA,79.6,77.0,MLS,USA,81.7,77.0,,,,,,,,,,
@@ -11189,6 +11252,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-09-14,Internacional,Sao Paulo,H,2.0,1.0,Serie A,BRA,81.2,80.1,Serie A,BRA,80.0,80.1,,,,,,,,,,
 2023-09-14,Sarmiento Junin,Central Cordoba,A,0.0,1.0,Liga Professional,ARG,75.5,76.8,Liga Professional,ARG,77.2,76.8,,,,,,,,,,
 2023-09-15,Defensa y Justicia,Boca Juniors,H,1.0,0.0,Liga Professional,ARG,78.4,76.8,Liga Professional,ARG,82.0,76.8,,,,,,,,,,
+2023-09-15,Tigre,Estudiantes L.P.,D,0.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
 2023-09-15,Vallecano,Alaves,H,2.0,0.0,LaLiga,SP1,82.1,83.5,LaLiga,SP1,81.8,83.5,11.0,1.0,15.0,14.0,5.0,3.0,2.0,3.0,0.0,0.0
 2023-09-15,Bayern Munich,Leverkusen,D,2.0,2.0,Bundesliga,D1,93.6,84.0,Bundesliga,D1,90.6,84.0,9.0,5.0,6.0,6.0,7.0,4.0,0.0,3.0,0.0,0.0
 2023-09-15,Paris SG,Nice,A,2.0,3.0,Ligue 1,F1,95.2,83.1,Ligue 1,F1,84.6,83.1,3.0,8.0,8.0,17.0,4.0,3.0,2.0,5.0,0.0,0.0
@@ -11300,6 +11364,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-09-20,Barracas Central,Banfield,H,1.0,0.0,Liga Professional,ARG,76.2,76.8,Liga Professional,ARG,77.4,76.8,,,,,,,,,,
 2023-09-20,Rosario Central,Independiente,D,1.0,1.0,Liga Professional,ARG,78.3,76.8,Liga Professional,ARG,80.8,76.8,,,,,,,,,,
 2023-09-20,Huracan,Gimnasia L.P.,H,2.0,0.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,77.5,76.8,,,,,,,,,,
+2023-09-20,Defensa y Justicia,Tigre,H,2.0,0.0,Liga Professional,ARG,78.4,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-09-21,Colorado Rapids,Seattle Sounders,A,1.0,2.0,MLS,USA,77.2,77.0,MLS,USA,81.7,77.0,,,,,,,,,,
 2023-09-21,Athletico-PR,Internacional,H,2.0,1.0,Serie A,BRA,80.9,80.1,Serie A,BRA,81.2,80.1,,,,,,,,,,
 2023-09-21,Argentinos Jrs,Talleres Cordoba,H,3.0,1.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,81.9,76.8,,,,,,,,,,
@@ -11385,6 +11450,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-09-24,Paris SG,Marseille,H,4.0,0.0,Ligue 1,F1,95.2,83.1,Ligue 1,F1,85.4,83.1,5.0,0.0,11.0,14.0,8.0,3.0,0.0,3.0,0.0,0.0
 2023-09-24,Ath Madrid,Real Madrid,H,3.0,1.0,LaLiga,SP1,90.6,83.5,LaLiga,SP1,93.3,83.5,4.0,5.0,13.0,10.0,6.0,11.0,1.0,3.0,0.0,0.0
 2023-09-24,Newells Old Boys,Estudiantes L.P.,A,0.0,1.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
+2023-09-24,Tigre,San Lorenzo,D,0.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,79.1,76.8,,,,,,,,,,
 2023-09-24,Cruz Azul,Queretaro,A,1.0,3.0,Liga MX,MEX,83.0,75.5,Liga MX,MEX,74.5,75.5,,,,,,,,,,
 2023-09-24,Chelsea,Aston Villa,A,0.0,1.0,Premier League,E0,91.5,85.9,Premier League,E0,91.4,85.9,4.0,7.0,9.0,11.0,5.0,11.0,2.0,3.0,0.0,0.0
 2023-09-24,Las Palmas,Granada,H,1.0,0.0,LaLiga,SP1,81.6,83.5,LaLiga,SP1,77.7,83.5,3.0,1.0,13.0,19.0,6.0,7.0,6.0,4.0,1.0,0.0
@@ -11484,6 +11550,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-09-30,Club Tijuana,Juarez,H,5.0,1.0,Liga MX,MEX,76.9,75.5,Liga MX,MEX,74.3,75.5,,,,,,,,,,
 2023-09-30,Atl. San Luis,Cruz Azul,A,1.0,2.0,Liga MX,MEX,78.5,75.5,Liga MX,MEX,83.0,75.5,,,,,,,,,,
 2023-09-30,Queretaro,Club Leon,D,1.0,1.0,Liga MX,MEX,74.5,75.5,Liga MX,MEX,77.2,75.5,,,,,,,,,,
+2023-09-30,Tigre,Velez Sarsfield,D,0.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,82.2,76.8,,,,,,,,,,
 2023-09-30,Wolfsberger AC,LASK,H,2.0,1.0,Bundesliga,AUT,76.1,74.4,Bundesliga,AUT,78.5,74.4,,,,,,,,,,
 2023-09-30,Milan,Lazio,H,2.0,0.0,Serie A,I1,88.7,84.2,Serie A,I1,87.9,84.2,7.0,4.0,15.0,5.0,7.0,1.0,3.0,2.0,0.0,0.0
 2023-09-30,Tottenham,Liverpool,H,2.0,1.0,Premier League,E0,87.8,85.9,Premier League,E0,97.3,85.9,8.0,4.0,11.0,17.0,12.0,5.0,5.0,4.0,0.0,2.0
@@ -11552,6 +11619,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-10-06,Independiente,Sarmiento Junin,H,2.0,0.0,Liga Professional,ARG,80.8,76.8,Liga Professional,ARG,75.5,76.8,,,,,,,,,,
 2023-10-06,Ath Bilbao,Almeria,H,3.0,0.0,LaLiga,SP1,87.5,83.5,LaLiga,SP1,79.1,83.5,9.0,1.0,11.0,7.0,6.0,2.0,2.0,0.0,0.0,0.0
 2023-10-06,Cerezo Osaka,Vissel Kobe,H,2.0,1.0,J. League,JAP,77.3,74.2,J. League,JAP,79.0,74.2,,,,,,,,,,
+2023-10-06,Platense,Tigre,H,1.0,0.0,Liga Professional,ARG,79.5,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-10-06,Corinthians,Cuiaba,D,1.0,1.0,Serie A,BRA,79.1,80.1,Serie A,BRA,79.2,80.1,,,,,,,,,,
 2023-10-06,Palmeiras,Boca Juniors,D,1.0,1.0,Serie A,BRA,83.4,80.1,Liga Professional,ARG,82.0,76.8,,,,,,,,,,
 2023-10-07,Boca Juniors,Huracan,H,1.0,0.0,Liga Professional,ARG,82.0,76.8,Liga Professional,ARG,80.3,76.8,,,,,,,,,,
@@ -11639,6 +11707,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-10-19,Inter Miami,Charlotte,D,2.0,2.0,MLS,USA,80.9,77.0,MLS,USA,80.5,77.0,,,,,,,,,,
 2023-10-19,Gimnasia L.P.,Argentinos Jrs,H,3.0,2.0,Liga Professional,ARG,77.5,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2023-10-20,Huracan,Instituto,A,1.0,3.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,78.8,76.8,,,,,,,,,,
+2023-10-20,Tigre,Newells Old Boys,A,0.0,2.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,76.0,76.8,,,,,,,,,,
 2023-10-20,Le Havre,Lens,D,0.0,0.0,Ligue 1,F1,80.0,83.1,Ligue 1,F1,82.2,83.1,5.0,7.0,16.0,9.0,3.0,3.0,2.0,3.0,0.0,0.0
 2023-10-20,Dortmund,Werder Bremen,H,1.0,0.0,Bundesliga,D1,89.1,84.0,Bundesliga,D1,82.9,84.0,5.0,1.0,5.0,10.0,10.0,4.0,1.0,5.0,0.0,0.0
 2023-10-20,Urawa Reds,Kashiwa Reysol,H,2.0,0.0,J. League,JAP,77.6,74.2,J. League,JAP,74.5,74.2,,,,,,,,,,
@@ -11762,6 +11831,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-10-27,Girona,Celta,H,1.0,0.0,LaLiga,SP1,82.3,83.5,LaLiga,SP1,84.3,83.5,2.0,2.0,15.0,12.0,10.0,1.0,3.0,2.0,0.0,0.0
 2023-10-27,Crystal Palace,Tottenham,A,1.0,2.0,Premier League,E0,89.7,85.9,Premier League,E0,87.8,85.9,3.0,1.0,19.0,11.0,11.0,2.0,2.0,1.0,0.0,0.0
 2023-10-27,Arouca,Moreirense,A,0.0,1.0,Liga Portugal,P1,78.1,78.6,Liga Portugal,P1,80.6,78.6,3.0,5.0,11.0,14.0,7.0,5.0,2.0,2.0,0.0,1.0
+2023-10-27,Lanus,Tigre,H,2.0,1.0,Liga Professional,ARG,78.9,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-10-27,Newells Old Boys,Godoy Cruz,A,0.0,2.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,79.3,76.8,,,,,,,,,,
 2023-10-27,Santos,Coritiba,H,2.0,1.0,Serie A,BRA,75.7,80.1,Serie A,BRA,74.5,80.1,,,,,,,,,,
 2023-10-27,Nagoya Grampus,Sagan Tosu,D,1.0,1.0,J. League,JAP,76.5,74.2,J. League,JAP,72.1,74.2,,,,,,,,,,
@@ -11858,6 +11928,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-10-31,Huracan,Barracas Central,D,0.0,0.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
 2023-10-31,Platense,Newells Old Boys,D,0.0,0.0,Liga Professional,ARG,79.5,76.8,Liga Professional,ARG,76.0,76.8,,,,,,,,,,
 2023-10-31,Bahia,Fluminense,H,1.0,0.0,Serie A,BRA,80.7,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
+2023-10-31,Tigre,Godoy Cruz,H,1.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,79.3,76.8,,,,,,,,,,
 2023-11-02,Central Cordoba,Belgrano,A,0.0,1.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,78.2,76.8,,,,,,,,,,
 2023-11-02,Club America,Necaxa,H,2.0,1.0,Liga MX,MEX,82.8,75.5,Liga MX,MEX,75.0,75.5,,,,,,,,,,
 2023-11-02,San Lorenzo,Godoy Cruz,H,1.0,0.0,Liga Professional,ARG,79.1,76.8,Liga Professional,ARG,79.3,76.8,,,,,,,,,,
@@ -12218,6 +12289,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-12-03,West Ham,Crystal Palace,D,1.0,1.0,Premier League,E0,85.5,85.9,Premier League,E0,89.7,85.9,3.0,2.0,17.0,7.0,2.0,3.0,2.0,0.0,0.0,0.0
 2023-12-03,Fiorentina,Salernitana,H,3.0,0.0,Serie A,I1,86.4,84.2,Serie A,I1,76.0,84.2,9.0,1.0,13.0,12.0,3.0,2.0,1.0,0.0,0.0,0.0
 2023-12-03,Belgrano,Lanus,D,0.0,0.0,Liga Professional,ARG,78.2,76.8,Liga Professional,ARG,78.9,76.8,,,,,,,,,,
+2023-12-03,Central Cordoba,Tigre,H,2.0,0.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2023-12-03,DC United,Orlando City,D,1.0,1.0,MLS,USA,76.9,77.0,MLS,USA,82.6,77.0,,,,,,,,,,
 2023-12-03,FC Cincinnati,Seattle Sounders,H,1.0,0.0,MLS,USA,80.6,77.0,MLS,USA,81.7,77.0,,,,,,,,,,
 2023-12-03,New York City,Inter Miami,H,1.0,0.0,MLS,USA,79.8,77.0,MLS,USA,80.9,77.0,,,,,,,,,,
@@ -12347,6 +12419,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2023-12-11,Empoli,Lecce,D,1.0,1.0,Serie A,I1,79.1,84.2,Serie A,I1,82.3,84.2,6.0,5.0,14.0,18.0,8.0,3.0,2.0,2.0,0.0,0.0
 2023-12-11,Bragantino,Botafogo RJ,D,2.0,2.0,Serie A,BRA,80.3,80.1,Serie A,BRA,80.0,80.1,,,,,,,,,,
 2023-12-11,Boca Juniors,Newells Old Boys,H,1.0,0.0,Liga Professional,ARG,82.0,76.8,Liga Professional,ARG,76.0,76.8,,,,,,,,,,
+2023-12-11,Tigre,Platense,D,1.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,79.5,76.8,,,,,,,,,,
 2023-12-11,Cagliari,Sassuolo,H,2.0,1.0,Serie A,I1,81.9,84.2,Serie A,I1,81.0,84.2,6.0,4.0,15.0,15.0,10.0,4.0,1.0,7.0,0.0,1.0
 2023-12-11,Granada,Ath Bilbao,D,1.0,1.0,LaLiga,SP1,77.7,83.5,LaLiga,SP1,87.5,83.5,4.0,4.0,9.0,11.0,1.0,8.0,0.0,2.0,0.0,0.0
 2023-12-11,Gil Vicente,Moreirense,D,1.0,1.0,Liga Portugal,P1,77.9,78.6,Liga Portugal,P1,80.6,78.6,4.0,4.0,15.0,19.0,3.0,6.0,5.0,3.0,0.0,0.0
@@ -12513,6 +12586,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-01-02,Barracas Central,River Plate,A,0.0,2.0,Liga Professional,ARG,76.2,76.8,Liga Professional,ARG,81.0,76.8,,,,,,,,,,
 2024-01-02,Getafe,Vallecano,A,0.0,2.0,LaLiga,SP1,82.1,83.5,LaLiga,SP1,82.1,83.5,0.0,8.0,16.0,16.0,2.0,3.0,6.0,3.0,2.0,0.0
 2024-01-02,Boca Juniors,Sarmiento Junin,D,1.0,1.0,Liga Professional,ARG,82.0,76.8,Liga Professional,ARG,75.5,76.8,,,,,,,,,,
+2024-01-03,Tigre,Central Cordoba,H,1.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,77.2,76.8,,,,,,,,,,
 2024-01-03,Ind. Rivadavia,Barracas Central,A,1.0,3.0,Liga Professional,ARG,76.9,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
 2024-01-03,Kawasaki Frontale,Iwata,A,4.0,5.0,J. League,JAP,78.7,74.2,J. League,JAP,73.3,74.2,,,,,,,,,,
 2024-01-03,Yokohama F. Marinos,Avispa Fukuoka,A,0.0,1.0,J. League,JAP,78.0,74.2,J. League,JAP,76.1,74.2,,,,,,,,,,
@@ -12568,6 +12642,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-01-09,Altach,Austria Vienna,D,1.0,1.0,Bundesliga,AUT,70.9,74.4,Bundesliga,AUT,78.0,74.4,,,,,,,,,,
 2024-01-09,LASK,Wolfsberger AC,A,1.0,5.0,Bundesliga,AUT,78.5,74.4,Bundesliga,AUT,76.1,74.4,,,,,,,,,,
 2024-01-09,SK Rapid,Salzburg,H,3.0,2.0,Bundesliga,AUT,81.3,74.4,Bundesliga,AUT,81.3,74.4,,,,,,,,,,
+2024-01-09,Huracan,Tigre,A,0.0,2.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-01-09,Platense,San Lorenzo,A,1.0,2.0,Liga Professional,ARG,79.5,76.8,Liga Professional,ARG,79.1,76.8,,,,,,,,,,
 2024-01-09,St. Louis City,Los Angeles Galaxy,H,2.0,1.0,MLS,USA,78.0,77.0,MLS,USA,82.3,77.0,,,,,,,,,,
 2024-01-09,Corinthians,Flamengo RJ,H,2.0,1.0,Serie A,BRA,79.1,80.1,Serie A,BRA,82.5,80.1,,,,,,,,,,
@@ -12600,6 +12675,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-01-09,Athletico-PR,Palmeiras,A,0.0,2.0,Serie A,BRA,80.9,80.1,Serie A,BRA,83.4,80.1,,,,,,,,,,
 2024-01-10,Racing Club,Platense,D,1.0,1.0,Liga Professional,ARG,81.2,76.8,Liga Professional,ARG,79.5,76.8,,,,,,,,,,
 2024-01-10,Lanus,Gimnasia L.P.,D,0.0,0.0,Liga Professional,ARG,78.9,76.8,Liga Professional,ARG,77.5,76.8,,,,,,,,,,
+2024-01-10,Tigre,Independiente,D,1.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,80.8,76.8,,,,,,,,,,
 2024-01-12,Bayern Munich,Hoffenheim,H,3.0,0.0,Bundesliga,D1,93.6,84.0,Bundesliga,D1,82.6,84.0,12.0,4.0,8.0,6.0,11.0,2.0,1.0,3.0,0.0,1.0
 2024-01-12,Burnley,Luton,D,1.0,1.0,Premier League,E0,82.5,85.9,Premier League,E0,78.1,85.9,7.0,5.0,7.0,12.0,2.0,8.0,1.0,0.0,0.0,0.0
 2024-01-12,Marseille,Strasbourg,D,1.0,1.0,Ligue 1,F1,85.4,83.1,Ligue 1,F1,82.2,83.1,2.0,4.0,11.0,10.0,6.0,4.0,3.0,2.0,0.0,0.0
@@ -12705,6 +12781,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-01-25,Atl. San Luis,Tigres,A,1.0,2.0,Liga MX,MEX,78.5,75.5,Liga MX,MEX,81.5,75.5,,,,,,,,,,
 2024-01-25,Juarez,Club America,A,0.0,2.0,Liga MX,MEX,74.3,75.5,Liga MX,MEX,82.8,75.5,,,,,,,,,,
 2024-01-25,Monterrey,Queretaro,D,1.0,1.0,Liga MX,MEX,81.6,75.5,Liga MX,MEX,74.5,75.5,,,,,,,,,,
+2024-01-25,Tigre,Sarmiento Junin,D,0.0,0.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,75.5,76.8,,,,,,,,,,
 2024-01-25,Instituto,Dep. Riestra,D,0.0,0.0,Liga Professional,ARG,78.8,76.8,Liga Professional,ARG,78.2,76.8,,,,,,,,,,
 2024-01-26,Atl. Tucuman,Rosario Central,D,1.0,1.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
 2024-01-26,Central Cordoba,Newells Old Boys,A,0.0,1.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,76.0,76.8,,,,,,,,,,
@@ -12779,6 +12856,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-01-30,Instituto,Atl. Tucuman,H,3.0,0.0,Liga Professional,ARG,78.8,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2024-01-30,Huracan,Talleres Cordoba,A,1.0,2.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,81.9,76.8,,,,,,,,,,
 2024-01-31,Velez Sarsfield,Independiente,A,0.0,1.0,Liga Professional,ARG,82.2,76.8,Liga Professional,ARG,80.8,76.8,,,,,,,,,,
+2024-01-31,Racing Club,Tigre,H,3.0,0.0,Liga Professional,ARG,81.2,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-01-31,Cruz Azul,Club Tijuana,H,1.0,0.0,Liga MX,MEX,83.0,75.5,Liga MX,MEX,76.9,75.5,,,,,,,,,,
 2024-01-31,Santos Laguna,Puebla,H,3.0,0.0,Liga MX,MEX,73.0,75.5,Liga MX,MEX,71.7,75.5,,,,,,,,,,
 2024-01-31,Guadalajara Chivas,Toluca,H,3.0,2.0,Liga MX,MEX,79.8,75.5,Liga MX,MEX,82.2,75.5,,,,,,,,,,
@@ -12963,6 +13041,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-02-13,Gimnasia L.P.,Huracan,H,3.0,1.0,Liga Professional,ARG,77.5,76.8,Liga Professional,ARG,80.3,76.8,,,,,,,,,,
 2024-02-13,Gil Vicente,Vizela,A,0.0,1.0,Liga Portugal,P1,77.9,78.6,Liga Portugal,P1,71.5,78.6,4.0,2.0,13.0,15.0,8.0,3.0,3.0,5.0,0.0,1.0
 2024-02-13,Newells Old Boys,Racing Club,A,0.0,4.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,81.2,76.8,,,,,,,,,,
+2024-02-14,Tigre,Defensa y Justicia,A,0.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.4,76.8,,,,,,,,,,
 2024-02-14,Boca Juniors,Central Cordoba,H,2.0,0.0,Liga Professional,ARG,82.0,76.8,Liga Professional,ARG,77.2,76.8,,,,,,,,,,
 2024-02-14,Sarmiento Junin,Lanus,A,0.0,1.0,Liga Professional,ARG,75.5,76.8,Liga Professional,ARG,78.9,76.8,,,,,,,,,,
 2024-02-14,Bologna,Fiorentina,H,2.0,0.0,Serie A,I1,88.5,84.2,Serie A,I1,86.4,84.2,7.0,3.0,11.0,8.0,2.0,3.0,2.0,3.0,0.0,0.0
@@ -12989,6 +13068,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-02-17,Porto,Estrela,H,2.0,0.0,Liga Portugal,P1,84.2,78.6,Liga Portugal,P1,75.6,78.6,6.0,2.0,12.0,13.0,8.0,6.0,0.0,2.0,0.0,0.0
 2024-02-17,Atalanta,Sassuolo,H,3.0,0.0,Serie A,I1,89.9,84.2,Serie A,I1,81.0,84.2,13.0,4.0,10.0,9.0,11.0,5.0,0.0,0.0,0.0,0.0
 2024-02-17,Nantes,Paris SG,A,0.0,2.0,Ligue 1,F1,80.3,83.1,Ligue 1,F1,95.2,83.1,7.0,2.0,10.0,12.0,3.0,8.0,1.0,0.0,0.0,0.0
+2024-02-17,San Lorenzo,Tigre,H,2.0,0.0,Liga Professional,ARG,79.1,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-02-17,Valencia,Sevilla,D,0.0,0.0,LaLiga,SP1,82.6,83.5,LaLiga,SP1,82.8,83.5,4.0,1.0,5.0,8.0,7.0,2.0,0.0,1.0,0.0,0.0
 2024-02-17,BW Linz,Salzburg,D,1.0,1.0,Bundesliga,AUT,73.8,74.4,Bundesliga,AUT,81.3,74.4,,,,,,,,,,
 2024-02-17,Atl. San Luis,Club Tijuana,D,3.0,3.0,Liga MX,MEX,78.5,75.5,Liga MX,MEX,76.9,75.5,,,,,,,,,,
@@ -13161,6 +13241,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-02-26,Instituto,Godoy Cruz,A,0.0,2.0,Liga Professional,ARG,78.8,76.8,Liga Professional,ARG,79.3,76.8,,,,,,,,,,
 2024-02-26,Fiorentina,Lazio,H,2.0,1.0,Serie A,I1,86.4,84.2,Serie A,I1,87.9,84.2,7.0,1.0,15.0,12.0,13.0,2.0,0.0,2.0,0.0,0.0
 2024-02-26,Los Angeles Galaxy,Inter Miami,D,1.0,1.0,MLS,USA,82.3,77.0,MLS,USA,80.9,77.0,,,,,,,,,,
+2024-02-27,Velez Sarsfield,Tigre,D,2.0,2.0,Liga Professional,ARG,82.2,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-02-27,Central Cordoba,Atl. Tucuman,D,0.0,0.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
 2024-02-28,Queretaro,Atl. San Luis,H,4.0,1.0,Liga MX,MEX,74.5,75.5,Liga MX,MEX,78.5,75.5,,,,,,,,,,
 2024-02-28,Sassuolo,Napoli,A,1.0,6.0,Serie A,I1,81.0,84.2,Serie A,I1,90.3,84.2,2.0,9.0,3.0,5.0,5.0,10.0,0.0,0.0,0.0,0.0
@@ -13274,6 +13355,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-03-05,Machida,Kashiwa Reysol,H,2.0,0.0,J. League,JAP,78.4,74.2,J. League,JAP,74.5,74.2,,,,,,,,,,
 2024-03-05,Kashima Antlers,Shonan Bellmare,H,3.0,1.0,J. League,JAP,79.2,74.2,J. League,JAP,76.5,74.2,,,,,,,,,,
 2024-03-06,Instituto,Gimnasia L.P.,H,2.0,1.0,Liga Professional,ARG,78.8,76.8,Liga Professional,ARG,77.5,76.8,,,,,,,,,,
+2024-03-06,River Plate,Tigre,H,3.0,1.0,Liga Professional,ARG,81.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-03-06,San Lorenzo,Sarmiento Junin,A,0.0,1.0,Liga Professional,ARG,79.1,76.8,Liga Professional,ARG,75.5,76.8,,,,,,,,,,
 2024-03-07,Columbus Crew,Nashville SC,H,2.0,0.0,MLS,USA,82.7,77.0,MLS,USA,77.2,77.0,,,,,,,,,,
 2024-03-07,Yokohama F. Marinos,Sagan Tosu,A,0.0,1.0,J. League,JAP,78.0,74.2,J. League,JAP,72.1,74.2,,,,,,,,,,
@@ -13442,6 +13524,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-03-17,Ath Madrid,Barcelona,A,0.0,3.0,LaLiga,SP1,90.6,83.5,LaLiga,SP1,94.8,83.5,3.0,5.0,15.0,9.0,7.0,3.0,3.0,1.0,1.0,0.0
 2024-03-17,Inter,Napoli,D,1.0,1.0,Serie A,I1,94.2,84.2,Serie A,I1,90.3,84.2,6.0,3.0,19.0,6.0,5.0,7.0,2.0,1.0,0.0,0.0
 2024-03-17,Montpellier,Paris SG,A,2.0,6.0,Ligue 1,F1,81.5,83.1,Ligue 1,F1,95.2,83.1,7.0,9.0,9.0,13.0,7.0,4.0,0.0,3.0,0.0,0.0
+2024-03-17,Godoy Cruz,Tigre,H,1.0,0.0,Liga Professional,ARG,79.3,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-03-17,Las Palmas,Almeria,A,0.0,1.0,LaLiga,SP1,81.6,83.5,LaLiga,SP1,79.1,83.5,6.0,2.0,8.0,17.0,11.0,3.0,2.0,2.0,0.0,0.0
 2024-03-17,Barracas Central,Huracan,H,1.0,0.0,Liga Professional,ARG,76.2,76.8,Liga Professional,ARG,80.3,76.8,,,,,,,,,,
 2024-03-17,Casa Pia,Benfica,A,0.0,1.0,Liga Portugal,P1,78.1,78.6,Liga Portugal,P1,89.0,78.6,3.0,6.0,8.0,5.0,4.0,13.0,0.0,2.0,0.0,0.0
@@ -13481,6 +13564,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-03-29,Lille,Lens,H,2.0,1.0,Ligue 1,F1,88.0,83.1,Ligue 1,F1,82.2,83.1,6.0,3.0,13.0,17.0,5.0,5.0,3.0,3.0,0.0,0.0
 2024-03-29,Estrela,Sp Lisbon,A,1.0,2.0,Liga Portugal,P1,75.6,78.6,Liga Portugal,P1,88.8,78.6,3.0,6.0,20.0,8.0,3.0,7.0,3.0,1.0,0.0,0.0
 2024-03-29,Defensa y Justicia,Estudiantes L.P.,H,1.0,0.0,Liga Professional,ARG,78.4,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
+2024-03-29,Tigre,Belgrano,A,1.0,4.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.2,76.8,,,,,,,,,,
 2024-03-29,Huracan,River Plate,H,1.0,0.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,81.0,76.8,,,,,,,,,,
 2024-03-29,Benfica,Chaves,H,1.0,0.0,Liga Portugal,P1,89.0,78.6,Liga Portugal,P1,70.3,78.6,7.0,0.0,12.0,12.0,11.0,2.0,1.0,8.0,0.0,0.0
 2024-03-30,Fiorentina,Milan,A,1.0,2.0,Serie A,I1,86.4,84.2,Serie A,I1,88.7,84.2,7.0,10.0,8.0,12.0,7.0,5.0,2.0,3.0,0.0,0.0
@@ -14060,6 +14144,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-05-02,Atl. San Luis,Guadalajara Chivas,A,0.0,2.0,Liga MX,MEX,78.5,75.5,Liga MX,MEX,79.8,75.5,,,,,,,,,,
 2024-05-02,Chelsea,Tottenham,H,2.0,0.0,Premier League,E0,91.5,85.9,Premier League,E0,87.8,85.9,5.0,3.0,12.0,16.0,4.0,9.0,0.0,1.0,0.0,0.0
 2024-05-02,Newells Old Boys,Belgrano,H,1.0,0.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,78.2,76.8,,,,,,,,,,
+2024-05-02,Tigre,Boca Juniors,A,0.0,2.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,82.0,76.8,,,,,,,,,,
 2024-05-02,Godoy Cruz,Lanus,H,1.0,0.0,Liga Professional,ARG,79.3,76.8,Liga Professional,ARG,78.9,76.8,,,,,,,,,,
 2024-05-03,Getafe,Ath Bilbao,A,0.0,2.0,LaLiga,SP1,82.1,83.5,LaLiga,SP1,87.5,83.5,9.0,2.0,6.0,9.0,10.0,6.0,0.0,2.0,0.0,2.0
 2024-05-03,Racing Club,Sarmiento Junin,A,0.0,1.0,Liga Professional,ARG,81.2,76.8,Liga Professional,ARG,75.5,76.8,,,,,,,,,,
@@ -14152,6 +14237,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-05-07,FC Dallas,Portland Timbers,H,3.0,2.0,MLS,USA,77.9,77.0,MLS,USA,79.4,77.0,,,,,,,,,,
 2024-05-08,Rosario Central,Atletico-MG,A,0.0,1.0,Liga Professional,ARG,78.3,76.8,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2024-05-08,Atl. Tucuman,Ind. Rivadavia,H,2.0,1.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,76.9,76.8,,,,,,,,,,
+2024-05-08,Lanus,Tigre,H,3.0,2.0,Liga Professional,ARG,78.9,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-05-08,Gimnasia L.P.,Rosario Central,A,0.0,1.0,Liga Professional,ARG,77.5,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
 2024-05-08,Universitario de Deportes,Junior FC,D,1.0,1.0,Primera Division,PER,75.3,67.8,Primera A,COL,75.4,72.6,,,,,,,,,,
 2024-05-08,Palestino,Flamengo RJ,H,1.0,0.0,Primera Division,CHI,73.0,71.8,Serie A,BRA,82.5,80.1,,,,,,,,,,
@@ -14401,10 +14487,12 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-05-20,Cruz Azul,Monterrey,A,1.0,2.0,Liga MX,MEX,83.0,75.5,Liga MX,MEX,81.6,75.5,,,,,,,,,,
 2024-05-20,Central Cordoba,Boca Juniors,A,2.0,4.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,82.0,76.8,,,,,,,,,,
 2024-05-21,Racing Club,Argentinos Jrs,H,3.0,0.0,Liga Professional,ARG,81.2,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
+2024-05-21,Rosario Central,Tigre,D,1.0,1.0,Liga Professional,ARG,78.3,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-05-21,Wolfsberger AC,Austria Vienna,A,1.0,2.0,Bundesliga,AUT,76.1,74.4,Bundesliga,AUT,78.0,74.4,,,,,,,,,,
 2024-05-22,Velez Sarsfield,Newells Old Boys,H,1.0,0.0,Liga Professional,ARG,82.2,76.8,Liga Professional,ARG,76.0,76.8,,,,,,,,,,
 2024-05-23,Cagliari,Fiorentina,A,2.0,3.0,Serie A,I1,81.9,84.2,Serie A,I1,86.4,84.2,6.0,5.0,13.0,14.0,4.0,5.0,2.0,4.0,0.0,0.0
 2024-05-24,Cruz Azul,Club America,D,1.0,1.0,Liga MX,MEX,83.0,75.5,Liga MX,MEX,82.8,75.5,,,,,,,,,,
+2024-05-24,Tigre,Racing Club,A,0.0,4.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,81.2,76.8,,,,,,,,,,
 2024-05-24,Austria Vienna,Hartberg,H,2.0,1.0,Bundesliga,AUT,78.0,74.4,Bundesliga,AUT,76.1,74.4,,,,,,,,,,
 2024-05-24,Dep. Riestra,Rosario Central,A,0.0,2.0,Liga Professional,ARG,78.2,76.8,Liga Professional,ARG,78.3,76.8,,,,,,,,,,
 2024-05-24,Genoa,Bologna,H,2.0,0.0,Serie A,I1,82.2,84.2,Serie A,I1,88.5,84.2,3.0,1.0,11.0,11.0,3.0,6.0,1.0,2.0,0.0,0.0
@@ -14562,6 +14650,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-06-13,Cruzeiro,Cuiaba,H,2.0,1.0,Serie A,BRA,80.3,80.1,Serie A,BRA,79.2,80.1,,,,,,,,,,
 2024-06-13,Independiente,Banfield,H,2.0,1.0,Liga Professional,ARG,80.8,76.8,Liga Professional,ARG,77.4,76.8,,,,,,,,,,
 2024-06-13,Gimnasia L.P.,Barracas Central,H,2.0,1.0,Liga Professional,ARG,77.5,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
+2024-06-13,Tigre,Belgrano,D,1.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.2,76.8,,,,,,,,,,
 2024-06-14,Newells Old Boys,Instituto,A,0.0,2.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,78.8,76.8,,,,,,,,,,
 2024-06-14,Internacional,Sao Paulo,D,0.0,0.0,Serie A,BRA,81.2,80.1,Serie A,BRA,80.0,80.1,,,,,,,,,,
 2024-06-14,Palmeiras,Vasco,H,2.0,0.0,Serie A,BRA,83.4,80.1,Serie A,BRA,80.0,80.1,,,,,,,,,,
@@ -14849,6 +14938,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-07-18,Fortaleza,Vitoria,H,3.0,1.0,Serie A,BRA,82.2,80.1,Serie A,BRA,80.5,80.1,,,,,,,,,,
 2024-07-18,Botafogo RJ,Palmeiras,H,1.0,0.0,Serie A,BRA,80.0,80.1,Serie A,BRA,83.4,80.1,,,,,,,,,,
 2024-07-18,Nashville SC,Orlando City,A,0.0,3.0,MLS,USA,77.2,77.0,MLS,USA,82.6,77.0,,,,,,,,,,
+2024-07-18,Argentinos Jrs,Tigre,A,0.0,2.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-07-18,Ind. Rivadavia,Gimnasia L.P.,H,1.0,0.0,Liga Professional,ARG,76.9,76.8,Liga Professional,ARG,77.5,76.8,,,,,,,,,,
 2024-07-19,Barracas Central,Newells Old Boys,A,0.0,1.0,Liga Professional,ARG,76.2,76.8,Liga Professional,ARG,76.0,76.8,,,,,,,,,,
 2024-07-19,Instituto,Independiente,H,3.0,1.0,Liga Professional,ARG,78.8,76.8,Liga Professional,ARG,80.8,76.8,,,,,,,,,,
@@ -14918,6 +15008,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-07-25,Fluminense,Palmeiras,H,1.0,0.0,Serie A,BRA,80.7,80.1,Serie A,BRA,83.4,80.1,,,,,,,,,,
 2024-07-25,Atletico GO,Bahia,D,1.0,1.0,Serie A,BRA,77.3,80.1,Serie A,BRA,80.7,80.1,,,,,,,,,,
 2024-07-25,Vitoria,Flamengo RJ,A,1.0,2.0,Serie A,BRA,80.5,80.1,Serie A,BRA,82.5,80.1,,,,,,,,,,
+2024-07-26,Tigre,Central Cordoba,D,1.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,77.2,76.8,,,,,,,,,,
 2024-07-26,Atl. Tucuman,Instituto,H,1.0,0.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,78.8,76.8,,,,,,,,,,
 2024-07-26,Corinthians,Gremio,D,2.0,2.0,Serie A,BRA,79.1,80.1,Serie A,BRA,81.1,80.1,,,,,,,,,,
 2024-07-27,Palmeiras,Vitoria,A,0.0,2.0,Serie A,BRA,83.4,80.1,Serie A,BRA,80.5,80.1,,,,,,,,,,
@@ -14938,12 +15029,14 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-07-28,Bahia,Internacional,D,1.0,1.0,Serie A,BRA,80.7,80.1,Serie A,BRA,81.2,80.1,,,,,,,,,,
 2024-07-29,Defensa y Justicia,Platense,A,1.0,3.0,Liga Professional,ARG,78.4,76.8,Liga Professional,ARG,79.5,76.8,,,,,,,,,,
 2024-07-29,Barracas Central,Atl. Tucuman,A,0.0,2.0,Liga Professional,ARG,76.2,76.8,Liga Professional,ARG,78.0,76.8,,,,,,,,,,
+2024-07-29,Tigre,Dep. Riestra,H,2.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.2,76.8,,,,,,,,,,
 2024-07-29,Instituto,Boca Juniors,D,0.0,0.0,Liga Professional,ARG,78.8,76.8,Liga Professional,ARG,82.0,76.8,,,,,,,,,,
 2024-07-29,Central Cordoba,Velez Sarsfield,A,0.0,2.0,Liga Professional,ARG,77.2,76.8,Liga Professional,ARG,82.2,76.8,,,,,,,,,,
 2024-07-30,Belgrano,Godoy Cruz,H,1.0,0.0,Liga Professional,ARG,78.2,76.8,Liga Professional,ARG,79.3,76.8,,,,,,,,,,
 2024-07-30,Argentinos Jrs,Lanus,H,2.0,0.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,78.9,76.8,,,,,,,,,,
 2024-08-02,Rosario Central,Ind. Rivadavia,H,1.0,0.0,Liga Professional,ARG,78.3,76.8,Liga Professional,ARG,76.9,76.8,,,,,,,,,,
 2024-08-02,Pachuca,Club Leon,H,3.0,2.0,Liga MX,MEX,77.3,75.5,Liga MX,MEX,77.2,75.5,,,,,,,,,,
+2024-08-03,Newells Old Boys,Tigre,H,1.0,0.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-08-03,Belgrano,Defensa y Justicia,D,1.0,1.0,Liga Professional,ARG,78.2,76.8,Liga Professional,ARG,78.4,76.8,,,,,,,,,,
 2024-08-04,Atl. San Luis,Juarez,A,2.0,3.0,Liga MX,MEX,78.5,75.5,Liga MX,MEX,74.3,75.5,,,,,,,,,,
 2024-08-04,Dep. Riestra,Huracan,D,0.0,0.0,Liga Professional,ARG,78.2,76.8,Liga Professional,ARG,80.3,76.8,,,,,,,,,,
@@ -14966,6 +15059,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-08-10,AVS,Nacional,D,1.0,1.0,Liga Portugal,P1,75.7,78.6,Liga Portugal,P1,76.1,78.6,3.0,2.0,8.0,13.0,4.0,2.0,1.0,1.0,0.0,0.0
 2024-08-10,Casa Pia,Boavista,A,0.0,1.0,Liga Portugal,P1,78.1,78.6,Liga Portugal,P1,75.3,78.6,4.0,2.0,12.0,6.0,3.0,1.0,2.0,1.0,0.0,0.0
 2024-08-10,Porto,Gil Vicente,H,3.0,0.0,Liga Portugal,P1,84.2,78.6,Liga Portugal,P1,77.9,78.6,7.0,2.0,18.0,10.0,6.0,2.0,0.0,3.0,0.0,1.0
+2024-08-10,Atl. Tucuman,Tigre,A,1.0,2.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-08-11,Famalicao,Benfica,H,2.0,0.0,Liga Portugal,P1,80.4,78.6,Liga Portugal,P1,89.0,78.6,5.0,1.0,8.0,13.0,0.0,7.0,3.0,4.0,0.0,0.0
 2024-08-11,Farense,Moreirense,A,1.0,2.0,Liga Portugal,P1,76.1,78.6,Liga Portugal,P1,80.6,78.6,5.0,6.0,14.0,11.0,5.0,4.0,0.0,4.0,0.0,1.0
 2024-08-11,Sp Braga,Estrela,D,1.0,1.0,Liga Portugal,P1,83.7,78.6,Liga Portugal,P1,75.6,78.6,5.0,4.0,14.0,9.0,13.0,4.0,3.0,5.0,0.0,0.0
@@ -15027,6 +15121,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-08-17,Grazer AK,BW Linz,D,2.0,2.0,Bundesliga,AUT,72.7,74.4,Bundesliga,AUT,73.8,74.4,,,,,,,,,,
 2024-08-17,Rio Ave,Farense,H,1.0,0.0,Liga Portugal,P1,78.3,78.6,Liga Portugal,P1,76.1,78.6,3.0,4.0,8.0,16.0,7.0,14.0,0.0,1.0,0.0,0.0
 2024-08-17,Parma,Fiorentina,D,1.0,1.0,Serie A,I1,81.0,84.2,Serie A,I1,86.4,84.2,5.0,7.0,15.0,9.0,4.0,9.0,3.0,2.0,0.0,1.0
+2024-08-18,Sarmiento Junin,Tigre,D,0.0,0.0,Liga Professional,ARG,75.5,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-08-18,Botafogo RJ,Flamengo RJ,H,4.0,1.0,Serie A,BRA,80.0,80.1,Serie A,BRA,82.5,80.1,,,,,,,,,,
 2024-08-18,Athletico-PR,Juventude,A,1.0,2.0,Serie A,BRA,80.9,80.1,Serie A,BRA,79.8,80.1,,,,,,,,,,
 2024-08-18,Atl. Tucuman,Estudiantes L.P.,H,2.0,0.0,Liga Professional,ARG,78.0,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
@@ -15269,6 +15364,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-09-01,Fiorentina,Monza,D,2.0,2.0,Serie A,I1,86.4,84.2,Serie A,I1,77.5,84.2,5.0,3.0,11.0,21.0,6.0,0.0,2.0,4.0,0.0,0.0
 2024-09-02,Huracan,Independiente,D,0.0,0.0,Liga Professional,ARG,80.3,76.8,Liga Professional,ARG,80.8,76.8,,,,,,,,,,
 2024-09-02,Salzburg,Sturm Graz,D,1.0,1.0,Bundesliga,AUT,81.3,74.4,Bundesliga,AUT,80.2,74.4,,,,,,,,,,
+2024-09-02,Estudiantes L.P.,Tigre,H,2.0,0.0,Liga Professional,ARG,80.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-09-03,New York City,Portland Timbers,A,1.0,2.0,MLS,USA,79.8,77.0,MLS,USA,79.4,77.0,,,,,,,,,,
 2024-09-03,Sanfrecce Hiroshima,Sagan Tosu,H,4.0,0.0,J. League,JAP,80.8,74.2,J. League,JAP,72.1,74.2,,,,,,,,,,
 2024-09-03,Cerezo Osaka,Verdy,H,2.0,1.0,J. League,JAP,77.3,74.2,J. League,JAP,77.2,74.2,,,,,,,,,,
@@ -15288,6 +15384,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-09-03,Independiente,River Plate,D,1.0,1.0,Liga Professional,ARG,80.8,76.8,Liga Professional,ARG,81.0,76.8,,,,,,,,,,
 2024-09-03,Machida,Kashima Antlers,H,1.0,0.0,J. League,JAP,78.4,74.2,J. League,JAP,79.2,74.2,,,,,,,,,,
 2024-09-04,Godoy Cruz,Sarmiento Junin,H,1.0,0.0,Liga Professional,ARG,79.3,76.8,Liga Professional,ARG,75.5,76.8,,,,,,,,,,
+2024-09-04,Platense,Tigre,H,3.0,1.0,Liga Professional,ARG,79.5,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-09-05,Guadalajara Chivas,Toluca,H,1.0,0.0,Liga MX,MEX,79.8,75.5,Liga MX,MEX,82.2,75.5,,,,,,,,,,
 2024-09-05,Pachuca,Club America,D,1.0,1.0,Liga MX,MEX,77.3,75.5,Liga MX,MEX,82.8,75.5,,,,,,,,,,
 2024-09-06,Criciuma,Cuiaba,A,2.0,5.0,Serie A,BRA,79.3,80.1,Serie A,BRA,79.2,80.1,,,,,,,,,,
@@ -15370,6 +15467,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-09-15,Rennes,Montpellier,H,3.0,0.0,Ligue 1,F1,82.4,83.1,Ligue 1,F1,81.5,83.1,6.0,4.0,10.0,7.0,3.0,4.0,1.0,3.0,0.0,0.0
 2024-09-15,Torino,Lecce,D,0.0,0.0,Serie A,I1,84.4,84.2,Serie A,I1,82.3,84.2,0.0,6.0,13.0,13.0,2.0,7.0,1.0,3.0,0.0,0.0
 2024-09-15,Atalanta,Fiorentina,H,3.0,2.0,Serie A,I1,89.9,84.2,Serie A,I1,86.4,84.2,7.0,5.0,16.0,15.0,4.0,2.0,2.0,3.0,0.0,0.0
+2024-09-15,Tigre,Gimnasia L.P.,D,1.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,77.5,76.8,,,,,,,,,,
 2024-09-15,Tottenham,Arsenal,A,0.0,1.0,Premier League,E0,87.8,85.9,Premier League,E0,95.9,85.9,5.0,4.0,13.0,10.0,7.0,6.0,5.0,3.0,0.0,0.0
 2024-09-15,CF Montreal,Charlotte,H,2.0,1.0,MLS,USA,77.1,77.0,MLS,USA,80.5,77.0,,,,,,,,,,
 2024-09-15,DC United,New York City,D,1.0,1.0,MLS,USA,76.9,77.0,MLS,USA,79.8,77.0,,,,,,,,,,
@@ -15445,6 +15543,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-09-20,Augsburg,Mainz,A,2.0,3.0,Bundesliga,D1,82.5,84.0,Bundesliga,D1,84.1,84.0,9.0,3.0,7.0,12.0,14.0,1.0,3.0,5.0,1.0,1.0
 2024-09-20,Flamengo RJ,Penarol,A,0.0,1.0,Serie A,BRA,82.5,80.1,Primera Division,URU,76.8,72.5,,,,,,,,,,
 2024-09-21,Charlotte,New England Revolution,H,4.0,0.0,MLS,USA,80.5,77.0,MLS,USA,76.2,77.0,,,,,,,,,,
+2024-09-21,Newells Old Boys,Tigre,H,1.0,0.0,Liga Professional,ARG,76.0,76.8,Liga Professional,ARG,77.1,76.8,,,,,,,,,,
 2024-09-21,Instituto,Barracas Central,A,0.0,1.0,Liga Professional,ARG,78.8,76.8,Liga Professional,ARG,76.2,76.8,,,,,,,,,,
 2024-09-21,Fluminense,Botafogo RJ,A,0.0,1.0,Serie A,BRA,80.7,80.1,Serie A,BRA,80.0,80.1,,,,,,,,,,
 2024-09-21,Moreirense,Famalicao,D,0.0,0.0,Liga Portugal,P1,80.6,78.6,Liga Portugal,P1,80.4,78.6,3.0,1.0,24.0,15.0,4.0,3.0,5.0,3.0,0.0,0.0
@@ -15953,6 +16052,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-11-03,Inter,Venezia,H,1.0,0.0,Serie A,I1,94.2,84.2,Serie A,I1,81.2,84.2,8.0,2.0,14.0,15.0,9.0,3.0,2.0,1.0,0.0,0.0
 2024-11-03,Ath Bilbao,Betis,D,1.0,1.0,LaLiga,SP1,87.5,83.5,LaLiga,SP1,86.5,83.5,8.0,4.0,9.0,8.0,6.0,2.0,0.0,0.0,0.0,0.0
 2024-11-03,Porto,Estoril,H,4.0,0.0,Liga Portugal,P1,84.2,78.6,Liga Portugal,P1,76.4,78.6,9.0,5.0,7.0,9.0,9.0,5.0,0.0,2.0,0.0,0.0
+2024-11-03,Tigre,Lanus,A,2.0,3.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,78.9,76.8,,,,,,,,,,
 2024-11-03,Le Havre,Montpellier,H,1.0,0.0,Ligue 1,F1,80.0,83.1,Ligue 1,F1,81.5,83.1,4.0,1.0,11.0,13.0,2.0,10.0,2.0,1.0,0.0,0.0
 2024-11-03,Auxerre,Rennes,H,4.0,0.0,Ligue 1,F1,81.5,83.1,Ligue 1,F1,82.4,83.1,8.0,4.0,11.0,15.0,3.0,8.0,0.0,2.0,0.0,0.0
 2024-11-03,Freiburg,Mainz,D,0.0,0.0,Bundesliga,D1,84.0,84.0,Bundesliga,D1,84.1,84.0,2.0,2.0,9.0,12.0,8.0,4.0,1.0,2.0,0.0,0.0
@@ -16193,6 +16293,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-12-05,Hartberg,Salzburg,A,1.0,5.0,Bundesliga,AUT,76.1,74.4,Bundesliga,AUT,81.3,74.4,,,,,,,,,,
 2024-12-05,LASK,Sturm Graz,D,2.0,2.0,Bundesliga,AUT,78.5,74.4,Bundesliga,AUT,80.2,74.4,,,,,,,,,,
 2024-12-05,Dep. Riestra,San Lorenzo,H,1.0,0.0,Liga Professional,ARG,78.2,76.8,Liga Professional,ARG,79.1,76.8,,,,,,,,,,
+2024-12-05,Tigre,Estudiantes L.P.,A,0.0,1.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,80.0,76.8,,,,,,,,,,
 2024-12-05,Toluca,Guadalajara Chivas,D,0.0,0.0,Liga MX,MEX,82.2,75.5,Liga MX,MEX,79.8,75.5,,,,,,,,,,
 2024-12-05,Atletico GO,Cruzeiro,A,0.0,1.0,Serie A,BRA,77.3,80.1,Serie A,BRA,80.3,80.1,,,,,,,,,,
 2024-12-05,Colorado Rapids,San Jose Earthquakes,A,2.0,3.0,MLS,USA,77.2,77.0,MLS,USA,73.7,77.0,,,,,,,,,,
@@ -16262,6 +16363,7 @@ DATE,HOME_TEAM,AWAY_TEAM,RESULT,HOME_TEAM_SCORE,AWAY_TEAM_SCORE,HOME_TEAM_LEAGUE
 2024-12-08,St Etienne,Marseille,A,0.0,2.0,Ligue 1,F1,80.3,83.1,Ligue 1,F1,85.4,83.1,2.0,10.0,13.0,10.0,0.0,9.0,1.0,1.0,0.0,0.0
 2024-12-08,Napoli,Lazio,A,0.0,1.0,Serie A,I1,90.3,84.2,Serie A,I1,87.9,84.2,1.0,3.0,16.0,12.0,6.0,2.0,2.0,3.0,0.0,0.0
 2024-12-08,Ath Madrid,Sevilla,H,4.0,3.0,LaLiga,SP1,90.6,83.5,LaLiga,SP1,82.8,83.5,9.0,3.0,11.0,8.0,5.0,3.0,4.0,3.0,0.0,0.0
+2024-12-08,Tigre,Godoy Cruz,A,0.0,2.0,Liga Professional,ARG,77.1,76.8,Liga Professional,ARG,79.3,76.8,,,,,,,,,,
 2024-12-08,Venezia,Como,D,2.0,2.0,Serie A,I1,81.2,84.2,Serie A,I1,81.8,84.2,4.0,4.0,12.0,10.0,5.0,9.0,1.0,1.0,0.0,0.0
 2024-12-08,Osasuna,Alaves,D,2.0,2.0,LaLiga,SP1,83.8,83.5,LaLiga,SP1,81.8,83.5,8.0,3.0,13.0,14.0,8.0,3.0,4.0,3.0,0.0,0.0
 2024-12-08,Hoffenheim,Freiburg,D,1.0,1.0,Bundesliga,D1,82.6,84.0,Bundesliga,D1,84.0,84.0,5.0,4.0,10.0,5.0,6.0,1.0,1.0,1.0,0.0,0.0

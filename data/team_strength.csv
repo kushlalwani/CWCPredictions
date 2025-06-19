@@ -6,7 +6,7 @@ BRA,Palmeiras,83.4
 SP1,Ath Madrid,90.6
 F1,Paris SG,95.2
 USA,Seattle Sounders,81.7
-AUS,Auckland FC,67.6
+NZ,Auckland City,60.0
 D1,Bayern Munich,93.6
 P1,Benfica,89.0
 E0,Chelsea,91.5
@@ -20,7 +20,7 @@ JAP,Urawa Reds,77.6
 D1,Dortmund,89.1
 BRA,Fluminense,80.7
 SA,Mamelodi Sundowns,78.6
-KOR,Ulsan HD,77.8
+KOR,Ulsan,77.8
 UAE,Al-Ain,71.7
 I1,Juventus,88.3
 E0,Man City,95.0
@@ -358,3 +358,26 @@ EGY,Ceramica Cleopatra,70.4
 KSA,Damac,70.0
 KSA,Al Khaleej,68.7
 KSA,Al Ettifaq,72.9
+KSA,Al Qadsiah,70.3
+KSA,Al Wehda,68.6
+EGY,Pharco,67.6
+LAT,Riga,73.6
+CHI,Universidad de Chile,75.4
+ARG,Tigre,77.1
+NZ,West Coast Rangers,54.7
+NZ,Auckland United,58.6
+NZ,Manurewa,53.0
+TUN,Stade Tunisien,72.3
+TUN,Ben Guerdane,65.1
+TUN,Zarzis,65.8
+ECU,Independiente Valle,77.6
+EGY,Pyramids,77.7
+SA,Magesi,60.8
+COL,Once Caldas,74.7
+KOR,Jeonbuk,76.1
+KOR,Gwangju,76.1
+KOR,Gimcheon,77.2
+MOR,Touarga,69.9
+UAE,Al-Nasr,68.8
+UAE,Ajman,66.2
+UAE,Sharjah,70.1

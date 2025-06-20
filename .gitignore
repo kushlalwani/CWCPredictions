@@ -1,9 +1,13 @@
 # Ignore CatBoost info folder
 catboost_info/
 
+# Ignore any CatBoost stuff
+Model_Training_old.ipynb
+
 # Ignore Python cache files
 __pycache__/
 *.py[cod]
+__init__.py
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
@@ -15,3 +19,8 @@ __pycache__/
 # Ignore logs and temp files
 *.log
 *.tmp
+
+# Ignore model files
+*.json
+*.cbm
+

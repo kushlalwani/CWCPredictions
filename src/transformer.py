@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+
 league_strength_df = pd.read_csv("../data/league_strength.csv")
 team_strength_df = pd.read_csv("../data/team_strength.csv")
 
@@ -106,3 +107,5 @@ def transform_match_data_for_prediction(team1, team2, match_data):
 
 
     return pd.DataFrame([row])
+
+

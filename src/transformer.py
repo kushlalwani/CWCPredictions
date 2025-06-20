@@ -24,18 +24,20 @@ def transform_match_data_for_prediction(team1, team2, match_data):
     home_df = match_data[[
         "DATE", "HOME_TEAM", "RESULT", "HOME_TEAM_SCORE", "AWAY_TEAM_SCORE",
         "HOME_STRENGTH", "HOME_LEAGUE_STRENGTH",
-        "HOME_TARGET", "HOME_FOULS", "HOME_CORNERS", "HOME_YELLOW", "HOME_RED"
+        "HOME_TARGET", "HOME_FOULS", "HOME_CORNERS", "HOME_YELLOW", "HOME_RED","AWAY_STRENGTH","AWAY_LEAGUE_STRENGTH"
     ]].copy()
     home_df.rename(columns=lambda x: x.replace("HOME_", ""), inplace=True)
+    home_df.rename(columns=lambda x: x.replace("AWAY_", "OPP_"),inplace=True)
     home_df["TEAM"] = home_df["TEAM"]
     home_df["VENUE"] = "HOME"
 
     away_df = match_data[[
         "DATE", "AWAY_TEAM", "RESULT", "AWAY_TEAM_SCORE", "HOME_TEAM_SCORE",
         "AWAY_STRENGTH", "AWAY_LEAGUE_STRENGTH",
-        "AWAY_TARGET", "AWAY_FOULS", "AWAY_CORNERS", "AWAY_YELLOW", "AWAY_RED"
+        "AWAY_TARGET", "AWAY_FOULS", "AWAY_CORNERS", "AWAY_YELLOW", "AWAY_RED","HOME_STRENGTH","HOME_LEAGUE_STRENGTH"
     ]].copy()
     away_df.rename(columns=lambda x: x.replace("AWAY_", ""), inplace=True)
+    away_df.rename(columns=lambda x: x.replace("HOME_", "OPP_"),inplace=True)
     away_df["TEAM"] = away_df["TEAM"]
     away_df["VENUE"] = "AWAY"
 
@@ -43,20 +45,26 @@ def transform_match_data_for_prediction(team1, team2, match_data):
     away_df.columns = home_df.columns = [
         "DATE", "TEAM", "RESULT", "GOALS_FOR", "GOALS_AGAINST",
         "STRENGTH", "LEAGUE_STRENGTH",
-        "TARGET", "FOULS", "CORNERS", "YELLOW", "RED", "VENUE"
+        "TARGET", "FOULS", "CORNERS", "YELLOW", "RED","OPP_STRENGTH","OPP_LEAGUE_STRENGTH","VENUE"
     ]
 
     matches_long = pd.concat([home_df, away_df])
     matches_long["DATE"] = pd.to_datetime(matches_long["DATE"])
     matches_long = matches_long.sort_values(["TEAM", "DATE"])
-    '''
+
     # Map results to points for form
-    matches_long["POINTS"] = matches_long["RESULT"].map({
-        "H": lambda row: 3 if row["VENUE"] == "HOME" else 0,
-        "A": lambda row: 3 if row["VENUE"] == "AWAY" else 0,
-        "D": 1
-    }).apply(lambda x: x if not callable(x) else x(row))  # handle lambdas
-    '''
+    def compute_points(row):
+        if row["RESULT"] == "H":
+            return 3 if row["VENUE"] == "HOME" else 0
+        elif row["RESULT"] == "A":
+            return 3 if row["VENUE"] == "AWAY" else 0
+        elif row["RESULT"] == "D":
+            return 1
+        else:
+            return None
+
+    matches_long["POINTS"] = matches_long.apply(compute_points, axis=1)  # handle lambdas
+
     def compute_team_stats(team_name):
         team_matches = matches_long[matches_long["TEAM"] == team_name].sort_values("DATE")
         recent = team_matches.iloc[-3:]
@@ -66,11 +74,13 @@ def transform_match_data_for_prediction(team1, team2, match_data):
             "LEAGUE_STRENGTH": recent["LEAGUE_STRENGTH"].iloc[-1] if not recent["LEAGUE_STRENGTH"].isna().all() else None,
             "GOALS_FOR_LAST3": recent["GOALS_FOR"].mean(),
             "GOALS_AGAINST_LAST3": recent["GOALS_AGAINST"].mean(),
-            "STRENGTH_LAST3": recent["STRENGTH"].mean(),
-            "LEAGUE_STRENGTH_LAST3": recent["LEAGUE_STRENGTH"].mean(),
             "TARGET_LAST3": recent["TARGET"].mean(),
-            "CORNERS_LAST3": recent["CORNERS"].mean()#,
-            #"FORM_LAST3": recent["POINTS"].sum()
+            "CORNERS_LAST3": recent["CORNERS"].mean(),
+            "YELLOW_LAST3": recent["YELLOW"].mean(),
+            "RED_LAST3": recent["RED"].mean(),
+            "FORM_LAST3": recent["POINTS"].sum(),
+            "OPP_STRENGTH_LAST3": recent["OPP_STRENGTH"].mean(),
+            "OPP_LEAGUE_STRENGTH_LAST3":recent["OPP_LEAGUE_STRENGTH"].mean()
         }
 
         return stats
@@ -93,7 +103,6 @@ def transform_match_data_for_prediction(team1, team2, match_data):
     row["HOME_GOAL_DIFF_LAST3"] = row["HOME_GOALS_FOR_LAST3"] - row["HOME_GOALS_AGAINST_LAST3"]
     row["AWAY_GOAL_DIFF_LAST3"] = row["AWAY_GOALS_FOR_LAST3"] - row["AWAY_GOALS_AGAINST_LAST3"]
 
-    # Dummy HOME_WIN flag for compatibility (can be left blank or computed later)
-    row["HOME_WIN"] = None
+
 
     return pd.DataFrame([row])

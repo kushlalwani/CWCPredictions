@@ -5,13 +5,13 @@ DATE,HOME_TEAM,AWAY_TEAM,HOME_LEAGUE_ID,AWAY_LEAGUE_ID,HOME_TEAM_SCORE,AWAY_TEAM
 6/23/2025,Inter Miami,Palmeiras,USA,BRA,2,2,D,3,7,7,9,0,7,1,0,0,0
 6/24/2025,Auckland City,Boca Juniors,NZ,ARG,1,1,D,2,10,3,12,2,20,0,0,0,0
 6/24/2025,Benfica,Bayern Munich,P1,D1,1,0,H,4,4,7,9,3,6,3,0,0,0
-6/24/2025,Los Angeles FC,Flamengo RJ,USA,BRA,,,,,,,,,,,,,
-6/24/2025,Esperance,Chelsea,TUN,E0,,,,,,,,,,,,,
-6/25/2025,Mamelodi Sundowns,Fluminense,SA,BRA,,,,,,,,,,,,,
-6/25/2025,Dortmund,Ulsan,D1,KOR,,,,,,,,,,,,,
-6/25/2025,Urawa Reds,Monterrey,JAP,MEX,,,,,,,,,,,,,
-6/25/2025,Inter,River Plate,I1,ARG,,,,,,,,,,,,,
-6/26/2025,Wydad Casablanca,Al-Ain,MOR,UAE,,,,,,,,,,,,,
-6/26/2025,Juventus,Man City,I1,E0,,,,,,,,,,,,,
-6/26/2025,Al Hilal,Pachuca,KSA,MEX,,,,,,,,,,,,,
-6/26/2025,Salzburg,Real Madrid,AUT,SP1,,,,,,,,,,,,,
+6/24/2025,Los Angeles FC,Flamengo RJ,USA,BRA,1,1,D,1,4,7,11,3,6,2,0,0,0
+6/24/2025,Esperance,Chelsea,TUN,E0,0,3,A,0,7,12,12,1,4,3,0,0,0
+6/25/2025,Mamelodi Sundowns,Fluminense,SA,BRA,0,0,D,3,0,13,12,4,1,2,3,0,0
+6/25/2025,Dortmund,Ulsan,D1,KOR,1,0,H,11,3,10,11,6,1,2,2,0,0
+6/25/2025,Urawa Reds,Monterrey,JAP,MEX,0,4,A,2,7,10,7,9,4,0,0,0,0
+6/25/2025,Inter,River Plate,I1,ARG,2,0,H,3,2,18,20,4,4,4,4,0,2
+6/26/2025,Wydad Casablanca,Al-Ain,MOR,UAE,1,2,A,2,5,22,11,4,5,3,2,0,0
+6/26/2025,Juventus,Man City,I1,E0,2,5,A,2,11,11,10,1,6,1,0,0,0
+6/26/2025,Al Hilal,Pachuca,KSA,MEX,2,0,H,3,2,11,13,3,3,2,2,0,0
+6/26/2025,Salzburg,Real Madrid,AUT,SP1,0,3,A,3,4,12,4,6,5,0,0,0,0

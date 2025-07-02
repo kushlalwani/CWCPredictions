@@ -14,7 +14,7 @@ Manually entered data from previous Club World Cup games dating back to the 2022
 
 # Predictions
 
-## Round 1
+## **Round 1**
 #### Group A
 | Date | Home Team | Away Team | Result | Total Goals | Pred Result | Pred Goals |
 |------|-----------|-----------|--------|-------------|---------------------|--------------------|
@@ -68,7 +68,7 @@ After round 1, our result model sucessfully predicted 12/16 of the matches corre
 
 We have also successfully predicted 10/16 of the goal totals correctly. This gives us a 62.5% accuracy for the first round. 
 
-## Round 2
+## **Round 2**
 #### Group A
 | Date | Home Team | Away Team | Result | Total Goals | Pred Result | Pred Goals |
 |------|-----------|-----------|--------|-------------|---------------------|--------------------|
@@ -121,7 +121,7 @@ After round 2, the model created to predict the result has predicted 13/16 of th
 
 We have also successfully predicted 11/16 of the goal totals correctly in this round. This gives us a 68.8% accuracy for the second round. Througout both rounds we have 21/32 predictions correct or a 65.6% accuracy.
 
-## Round 3
+## **Round 3**
 
 #### Group A
 | Date | Home Team | Away Team | Result | Total Goals | Pred Result | Pred Goals |
@@ -175,4 +175,18 @@ In Round 3, the model successfully predicted 13/16 of the matches. This gives us
 
 We have predicted 10/16 of the total goals for the matches correctly. Through the entire tournament we have a 31/48, or a 64.6% accuracy. 
 
+## ** Round of 16 **
+| Date | Home Team | Away Team | Result after 90'| Total Goals Through 90'| Pred Result | Pred Goals |
+|------|-----------|-----------|--------|-------------|---------------------|--------------------|
+|Jun 28, 2025| Palmeiras <img src="https://flagcdn.com/w40/br.png" width="20"/> | Botafogo <img src="https://flagcdn.com/w40/br.png" width="20"/>| Draw | 0 | ✅|✅|
+|Jun 28, 2025| Benfica <img src="https://flagcdn.com/w40/pt.png" width="20"/> | Chelsea <img src="https://flagcdn.com/w40/gb.png" width="20"/> | Draw | 2 | ✅|❌|
+|Jun 29, 2025| Paris SG <img src="https://flagcdn.com/w40/fr.png" width="20"/> | Inter Miami <img src="https://flagcdn.com/w40/us.png" width="20"/> | Paris SG|4|✅|❌|
+|Jun 29, 2025| Flamengo <img src="https://flagcdn.com/w40/br.png" width="20"/> | Bayern Munich <img src="https://flagcdn.com/w40/de.png" width="20"/> | Bayern Munich | 6|✅|❌|
+|Jun 30, 2025| Inter <img src="https://flagcdn.com/w40/it.png" width="20"/> | Fluminense <img src="https://flagcdn.com/w40/br.png" width="20"/> | Fluminense | 2|❌ | ✅|
+|Jun 30, 2025| Man City <img src="https://flagcdn.com/w40/gb.png" width="20"/> | Al Hilal <img src="https://flagcdn.com/w40/sa.png" width="20"/> |Draw|4|✅|✅|
+|Jul 1, 2025| Real Madrid <img src="https://flagcdn.com/w40/es.png" width="20"/> | Juventus <img src="https://flagcdn.com/w40/it.png" width="20"/> |Real Madrid|1|✅|✅|
+|Jul 1, 2025| Dortmund <img src="https://flagcdn.com/w40/de.png" width="20"/> | Monterrey <img src="https://flagcdn.com/w40/mx.png" width="20"/> |Dortmund|3|✅|✅|
 
+In this round, we predicted 7/8 of the matches correctly. Through the entire tournament we have a 45/56 or a 80.3% accuracy. 
+
+For predicting the number of goals, this round had an accuracy of 5/8. Through the entire tournament, we have a 36/56 accuracy or a 64.3% accuracy.

@@ -175,7 +175,7 @@ In Round 3, the model successfully predicted 13/16 of the matches. This gives us
 
 We have predicted 10/16 of the total goals for the matches correctly. Through the entire tournament we have a 31/48, or a 64.6% accuracy. 
 
-## ** Round of 16 **
+## **Round of 16**
 | Date | Home Team | Away Team | Result after 90'| Total Goals Through 90'| Pred Result | Pred Goals |
 |------|-----------|-----------|--------|-------------|---------------------|--------------------|
 |Jun 28, 2025| Palmeiras <img src="https://flagcdn.com/w40/br.png" width="20"/> | Botafogo <img src="https://flagcdn.com/w40/br.png" width="20"/>| Draw | 0 | ✅|✅|
@@ -190,3 +190,15 @@ We have predicted 10/16 of the total goals for the matches correctly. Through th
 In this round, we predicted 7/8 of the matches correctly. Through the entire tournament we have a 45/56 or a 80.3% accuracy. 
 
 For predicting the number of goals, this round had an accuracy of 5/8. Through the entire tournament, we have a 36/56 accuracy or a 64.3% accuracy.
+
+## **Quarter Finals**
+| Date | Home Team | Away Team | Result after 90'| Total Goals Through 90'| Pred Result | Pred Goals | 
+|------|-----------|-----------|--------|-------------|---------------------|--------------------|
+|Jul 4, 2025| Fluminense <img src="https://flagcdn.com/w40/br.png" width="20"/> | Al Hilal <img src="https://flagcdn.com/w40/sa.png" width="20"/>|Fluminense|3|✅|✅|
+|Jul 4, 2025| Palmeiras <img src="https://flagcdn.com/w40/br.png" width="20"/> | Chelsea <img src="https://flagcdn.com/w40/gb.png" width="20"/> |Chelsea|3|✅|❌|
+|Jul 5, 2025| Paris SG <img src="https://flagcdn.com/w40/fr.png" width="20"/> | Bayern Munich <img src="https://flagcdn.com/w40/de.png" width="20"/> |Paris SG|2|✅|✅|
+|Jul 5, 2025| Real Madrid <img src="https://flagcdn.com/w40/es.png" width="20"/> | Dortmund <img src="https://flagcdn.com/w40/de.png" width="20"/> |Real Madrid|5|✅|✅|
+
+In this round we correctly predicted every match's result correctly giving us a 100% accuracy. Through the entire tournament, we now have a 49/60 or a 81.7% accuracy. 
+
+As for the goals predictor, we predicted this round with 75% accuracy. This now gives us a 39/60 or a 65% accuracy through the whole tournament

@@ -202,3 +202,13 @@ For predicting the number of goals, this round had an accuracy of 5/8. Through t
 In this round we correctly predicted every match's result correctly giving us a 100% accuracy. Through the entire tournament, we now have a 49/60 or a 81.7% accuracy. 
 
 As for the goals predictor, we predicted this round with 75% accuracy. This now gives us a 39/60 or a 65% accuracy through the whole tournament
+
+## **Semi Finals**
+| Date | Home Team | Away Team | Result after 90'| Total Goals Through 90'| Pred Result | Pred Goals | 
+|------|-----------|-----------|--------|-------------|---------------------|--------------------|
+|Jul 8, 2025| Fluminense <img src="https://flagcdn.com/w40/br.png" width="20"/> | Chelsea <img src="https://flagcdn.com/w40/gb.png" width="20"/>| Chelsea | 2 | ✅|❌|
+|Jul 9, 2025| Paris SG <img src="https://flagcdn.com/w40/fr.png" width="20"/> | Real Madrid <img src="https://flagcdn.com/w40/es.png" width="20"/> | Paris SG | 4 | ✅|❌|
+
+For the semifinals, we managed to correctly predict both results. However, we were not able to predict the total number of goals for either game.
+
+Now our accuracy for predicting results is up to 82.3% (51/62). But our accuracy for predicting the number of goals is down to 62.9% (39/62).

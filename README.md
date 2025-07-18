@@ -212,3 +212,12 @@ As for the goals predictor, we predicted this round with 75% accuracy. This now 
 For the semifinals, we managed to correctly predict both results. However, we were not able to predict the total number of goals for either game.
 
 Now our accuracy for predicting results is up to 82.3% (51/62). But our accuracy for predicting the number of goals is down to 62.9% (39/62).
+
+## **Final**
+| Date | Home Team | Away Team | Result after 90'| Total Goals Through 90'| Pred Result | Pred Goals | 
+|------|-----------|-----------|--------|-------------|---------------------|--------------------|
+|Jul 13, 2025| Chelsea <img src="https://flagcdn.com/w40/gb.png" width="20"/> | Paris SG <img src="https://flagcdn.com/w40/fr.png" width="20"/>| Chelsea | 3 | ✅ | ✅ |
+
+Our model has successfully predicted the final of this exciting tournament. This specific prediction shows how our model is able to predict certain upsets through out the tournament. For this match, Chelsea had +410 odds (FanDuel) to win the match. Our model predicted it, and also correctly predicted the total number of goals. 
+
+This brings our end of tournament accuracies to 82.5% (52/63) for the results and 63.5% (40/63) for the total number of goals. 
